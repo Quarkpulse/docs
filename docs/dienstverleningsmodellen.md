@@ -33,15 +33,14 @@ Break en Fix dienstverlening is een reactief service model waarbij klanten betal
 
 ## Overzicht van de pros en cons
 
-| Aspect                     | Maandelijkse IT Dienstverlening   | Break en Fix Dienstverlening |
-|----------------------------|-----------------------------------|------------------------------|
-| Proactieve benadering      | ✓ Proactieve monitoring en onderhoud van IT-infrastructuur | ✗ Reactieve benadering, ondersteuning alleen bij incidenten |
-| Voorspelbare kosten        | ✓ Vaste maandelijkse tarieven    | ✗ Kosten variëren afhankelijk van gebruiksuren |
-| Continu beheer             | ✓ Doorlopende ondersteuning voor desktops, servers, printers, enz. | ✗ Ondersteuning alleen wanneer nodig |
-| Stabiliteit en beveiliging | ✓ Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | ✗ Incidentele ondersteuning, geen doorlopend beheer |
-| Flexibiliteit              | ✗ Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | ✓ Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
-| Kostenbeheer               | ✓ Voorspelbare maandelijkse kosten | ✗ Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
-
+| Aspect                     | **Maandelijkse IT Dienstverlening**   | **Break en Fix Dienstverlening** |
+|----------------------------|---------------------------------------|----------------------------------|
+| **Proactieve benadering** | ✓ Proactieve monitoring en onderhoud van IT-infrastructuur | ✗ Reactieve benadering, ondersteuning alleen bij incidenten |
+| **Voorspelbare kosten**    | ✓ Vaste maandelijkse tarieven        | ✗ Kosten variëren afhankelijk van gebruiksuren |
+| **Continu beheer**         | ✓ Doorlopende ondersteuning voor desktops, servers, printers, enz. | ✗ Ondersteuning alleen wanneer nodig |
+| **Stabiliteit en beveiliging** | ✓ Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | ✗ Incidentele ondersteuning, geen doorlopend beheer |
+| **Flexibiliteit**          | ✗ Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | ✓ Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
+| **Kostenbeheer**           | ✓ Voorspelbare maandelijkse kosten | ✗ Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
 
 
 Welk model past het beste bij jouw bedrijf? Neem contact met ons op via sales.quarkpulse@gmail.com voor meer informatie en om te bespreken hoe we je kunnen ondersteunen met onze dienstverleningsmodellen.
