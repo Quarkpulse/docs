@@ -1,6 +1,6 @@
 # IT for hire
 
-Welkom bij de IT for hire pagina van QuarkPulse! Ons "IT for hire" concept biedt kleine en middelgrote bedrijven de mogelijkheid om professionele IT-diensten in te huren om hun technologische infrastructuur te beheren en te verbeteren. Of je nu behoefte hebt aan doorlopende ondersteuning voor je IT-omgeving of alleen hulp nodig hebt bij incidentele problemen, QuarkPulse staat klaar om te helpen.
+Welkom bij de IT for hire pagina van Quarkpulse! Ons "IT for hire" concept biedt kleine en middelgrote bedrijven de mogelijkheid om professionele IT-diensten in te huren om hun technologische infrastructuur te beheren en te verbeteren. Of je nu behoefte hebt aan doorlopende ondersteuning voor je IT-omgeving of alleen hulp nodig hebt bij incidentele problemen, Quarkpulse staat klaar om te helpen.
 
 ## Wat is IT for hire?
 
@@ -16,9 +16,9 @@ IT for hire is een serviceconcept waarbij bedrijven externe IT-dienstverleners i
 
 - **Focus op kernactiviteiten**: Door het beheer van de IT-infrastructuur uit te besteden, kunnen bedrijven zich richten op hun kernactiviteiten en groei stimuleren.
 
-## Diensten aangeboden door QuarkPulse
+## Diensten aangeboden door Quarkpulse
 
-QuarkPulse biedt een breed scala aan IT-diensten voor bedrijven van elke omvang. Onze diensten omvatten maar zijn niet beperkt tot:
+Quarkpulse biedt een breed scala aan IT-diensten voor bedrijven van elke omvang. Onze diensten omvatten maar zijn niet beperkt tot:
 
 - **Maandelijkse IT Dienstverlening**: Doorlopende ondersteuning en proactief beheer van uw IT-infrastructuur.
   
@@ -30,4 +30,4 @@ QuarkPulse biedt een breed scala aan IT-diensten voor bedrijven van elke omvang.
 
 ## Neem contact op
 
-Wil je meer weten over hoe IT for hire van QuarkPulse jouw bedrijf kan helpen? Neem dan gerust contact met ons op via sales.quarkpulse@gmail.com. We staan klaar om al je vragen te beantwoorden en te bespreken hoe we je kunnen ondersteunen bij al jouw IT-behoeften.
+Wil je meer weten over hoe IT for hire van Quarkpulse jouw bedrijf kan helpen? Neem dan gerust contact met ons op via sales.quarkpulse@gmail.com. We staan klaar om al je vragen te beantwoorden en te bespreken hoe we je kunnen ondersteunen bij al jouw IT-behoeften.
