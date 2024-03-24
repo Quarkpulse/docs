@@ -1,17 +1,13 @@
-# Startpagina
+# Start
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welkom bij de QuarkPulse Knowledge Base
 
-## Commands
+Welkom bij de QuarkPulse Knowledge Base! Hier vindt u alle informatie die u nodig heeft over IT for Hire, onze dienstverleningsmodellen, technische documentatie, veelgestelde vragen en handige tips en best practices. Gebruik de onderstaande links om direct naar de gewenste sectie te gaan:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [IT for hire](it-for-hire): Ontdek een algemene introductie van het IT for Hire concept en hoe QuarkPulse u kan helpen uw bedrijf te versterken met onze diensten.
+- [Dienstverleningsmodellen](dienstverleningsmodellen): Leer meer over de verschillende dienstverleningsmodellen die QuarkPulse aanbiedt, inclusief de voordelen en nadelen van elk model.
+- [Documentatie](documentatie): Vind technische documentatie en instructies voor het beheren van uw IT-infrastructuur, inclusief netwerkconfiguratie, serverbeheer, cybersecurity en meer.
+- [FAQs](faqs): Bekijk onze lijst met veelgestelde vragen en vind antwoorden op de meest voorkomende vragen over QuarkPulse en onze diensten.
+- [Tips](tips): Ontvang handige tips en best practices voor het optimaliseren van uw IT-omgeving en het maximaliseren van de voordelen van onze dienstverlening.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We hopen dat u de informatie op onze Knowledge Base nuttig zult vinden. Als u nog vragen heeft, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com. We staan ​​klaar om u te helpen!
