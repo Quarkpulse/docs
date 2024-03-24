@@ -1,9 +1,9 @@
 # Start
 Quarkpulse is een IT-bedrijf in Suriname dat IT-for-hire diensten levert aan kleine en middelgrote bedrijven. Met een focus op proactieve dienstverlening en klantgerichtheid streven we ernaar om de IT-omgeving van onze klanten te optimaliseren, te beveiligen en te onderhouden, zodat zij zich kunnen concentreren op hun kernactiviteiten en bedrijfsgroei.
 
-## Welkom bij de Quarkpulse Knowledge Base
+## Welkom bij de Quarkpulse Docs
 
-In de Quarkpulse Knowledge Base vindt u alle informatie die u nodig heeft over IT for Hire, onze dienstverleningsmodellen, technische documentatie, veelgestelde vragen en handige tips en best practices. Gebruik de onderstaande links om direct naar de gewenste sectie te gaan:
+In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire, onze dienstverleningsmodellen, technische documentatie, veelgestelde vragen en handige tips en best practices. Gebruik de onderstaande links om direct naar de gewenste sectie te gaan:
 
 - [IT for hire](01-it-for-hire): Ontdek een algemene introductie van het IT for Hire concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
 - [Dienstverleningsmodellen](02-dienstverleningsmodellen): Leer meer over de verschillende dienstverleningsmodellen die Quarkpulse aanbiedt, inclusief de voordelen en nadelen van elk model.
