@@ -1,12 +1,12 @@
 # Veelgestelde vragen (FAQs)
 
-Welkom bij de veelgestelde vragen (FAQs) pagina van QuarkPulse! Hier vind je antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com.
+Welkom bij de veelgestelde vragen (FAQs) pagina van Quarkpulse! Hier vind je antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com.
 
 ## Algemene vragen
 
 ### Wat is IT for hire?
 
-IT for hire is een serviceconcept waarbij bedrijven externe IT-dienstverleners inhuren om hen te helpen bij het beheren, onderhouden en optimaliseren van hun IT-infrastructuur. QuarkPulse biedt IT for hire diensten aan kleine en middelgrote bedrijven om hen te ondersteunen bij hun IT-behoeften.
+IT for hire is een serviceconcept waarbij bedrijven externe IT-dienstverleners inhuren om hen te helpen bij het beheren, onderhouden en optimaliseren van hun IT-infrastructuur. Quarkpulse biedt IT for hire diensten aan kleine en middelgrote bedrijven om hen te ondersteunen bij hun IT-behoeften.
 
 ### Wat zijn de voordelen van IT for hire?
 
@@ -20,6 +20,6 @@ Maandelijkse IT Dienstverlening biedt doorlopende ondersteuning en proactief beh
 
 ## Contact
 
-### Hoe kan ik contact opnemen met QuarkPulse?
+### Hoe kan ik contact opnemen met Quarkpulse?
 
-Je kunt contact opnemen met QuarkPulse via sales.quarkpulse@gmail.com voor al je vragen over onze diensten, tarieven, of om een consultatieafspraak te maken. We staan klaar om je te helpen!
+Je kunt contact opnemen met Quarkpulse via sales.quarkpulse@gmail.com voor al je vragen over onze diensten, tarieven, of om een consultatieafspraak te maken. We staan klaar om je te helpen!
