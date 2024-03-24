@@ -1,6 +1,6 @@
 # Dienstverleningsmodellen
 
-Welkom op de pagina van QuarkPulse over onze dienstverleningsmodellen! Bij QuarkPulse bieden we twee belangrijke modellen aan voor IT-dienstverlening, elk met zijn eigen unieke kenmerken en voordelen. Hieronder vind je een overzicht van de twee modellen:
+Welkom op de pagina van Quarkpulse over onze dienstverleningsmodellen! Bij Quarkpulse bieden we twee belangrijke modellen aan voor IT-dienstverlening, elk met zijn eigen unieke kenmerken en voordelen. Hieronder vind je een overzicht van de twee modellen:
 
 ## Maandelijkse IT Dienstverlening
 
