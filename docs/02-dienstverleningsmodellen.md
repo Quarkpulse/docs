@@ -18,7 +18,8 @@ In de context van IT-dienstverlening kunnen verschillende modellen worden gebrui
 
 5. **Concurrentievoordeel**: Het gebruik van effectieve dienstverleningsmodellen kan een concurrentievoordeel bieden aan dienstverleners door onderscheidende en waardevolle diensten aan te bieden aan klanten.
 
-Over het algemeen zijn dienstverleningsmodellen essentieel voor het organiseren, beheren en leveren van diensten aan klanten op een efficiënte, effectieve en waardevolle manier. Ze stellen dienstverleners in staat om zich aan te passen aan veranderende marktomstandigheden, de behoeften van klanten te vervullen en hun bedrijf te laten groeien.
+Over het algemeen zijn dienstverleningsmodellen essentieel voor het organiseren, beheren en leveren van diensten aan klanten op een efficiënte, effectieve en waardevolle manier. Ze stellen dienstverleners in staat om zich aan te passen aan veranderende marktomstandigheden, de behoeften van klanten te vervullen en hun bedrijf te laten groeien. 
+
 Bij Quarkpulse bieden we twee belangrijke modellen aan voor IT-dienstverlening, elk met zijn eigen unieke kenmerken en voordelen. Hieronder vind je een overzicht van de twee modellen:
 
 ## Maandelijkse IT Dienstverlening
