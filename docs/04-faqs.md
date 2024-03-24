@@ -1,6 +1,6 @@
-# Veelgestelde vragen (FAQs)
+# FAQs
 
-Welkom bij de veelgestelde vragen (FAQs) pagina van Quarkpulse! Hier vind je antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com.
+De veelgestelde vragen (FAQs) pagina van Quarkpulse is er voor antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com.
 
 ## Algemene vragen
 
