@@ -1,6 +1,6 @@
 # IT for hire
 
-Welkom bij de IT for hire pagina van Quarkpulse! Ons "IT for hire" concept biedt kleine en middelgrote bedrijven de mogelijkheid om professionele IT-diensten in te huren om hun technologische infrastructuur te beheren en te verbeteren. Of je nu behoefte hebt aan doorlopende ondersteuning voor je IT-omgeving of alleen hulp nodig hebt bij incidentele problemen, Quarkpulse staat klaar om te helpen.
+Ons `IT for hire` concept biedt kleine en middelgrote bedrijven de mogelijkheid om professionele IT-diensten in te huren om hun technologische infrastructuur te beheren en te verbeteren. Of je nu behoefte hebt aan doorlopende ondersteuning voor je IT-omgeving of alleen hulp nodig hebt bij incidentele problemen, Quarkpulse staat klaar om te helpen.
 
 ## Wat is IT for hire?
 
@@ -24,9 +24,19 @@ Quarkpulse biedt een breed scala aan IT-diensten voor bedrijven van elke omvang.
   
 - **Break en Fix Dienstverlening**: Snelle en efficiënte oplossingen voor incidentele IT-problemen op afroep.
 
-- **Technische Consultancy**: Advies en begeleiding bij IT-projecten en strategische planning.
+## Onboarding proces
 
-- **Netwerkbeheer**: Configuratie, beveiliging en onderhoud van netwerkinfrastructuren.
+Het onboarding proces bij Quarkpulse is ontworpen om soepel en efficiënt te verlopen, zodat nieuwe klanten snel kunnen profiteren van onze diensten. Ons onboarding proces omvat de volgende stappen:
+
+1. **Kennismaking**: We beginnen met een kennismakingsgesprek om jouw behoeften en verwachtingen te bespreken.
+
+2. **Registratie**: Vervolgens wordt er een contract opgesteld en worden de benodigde documenten ingevuld om de samenwerking officieel te maken.
+
+3. **Onboarding Sessie**: Na registratie plannen we een onboarding sessie in waarin we de verwachtingen, procedures en communicatielijnen doornemen.
+
+4. **Implementatie Planning**: We stellen een implementatieplan op dat afgestemd is op jouw specifieke behoeften en doelstellingen.
+
+5. **Start Dienstverlening**: Zodra alles is opgezet en klaar is voor gebruik, beginnen we met het leveren van onze `IT for hire` diensten aan jouw bedrijf.
 
 ## Neem contact op
 
