@@ -1,0 +1,56 @@
+site_name: Quarkpulse
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Schakel naar dark mode
+      primary: blue
+      accent: pink
+    - scheme: slate
+      toggle: 
+        icon: material/toggle-switch
+        name: Schakel naar light mode
+      primary: blue
+      accent: orange
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/normanvillefort
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/quarkpulse
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/quarkpulse/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/Quarkpulse" target="_blank" rel="noopener">Quarkpulse</a>
