@@ -12,6 +12,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tooltips
   language: nl
   palette:
     - scheme: default
