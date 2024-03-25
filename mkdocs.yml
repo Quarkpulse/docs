@@ -18,13 +18,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Schakel naar dark mode
-      primary: #1D274A
+      primary: black
       accent: pink
     - scheme: slate
       toggle: 
         icon: material/toggle-switch
         name: Schakel naar light mode
-      primary: #1D274A
+      primary: black
       accent: orange
 
 nav:
