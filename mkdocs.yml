@@ -69,6 +69,8 @@ extra:
       link: https://instagram.com/quarkpulse
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quarkpulse/
+    - icon: fontawesome/brands/whatsapp
+      link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
 
 markdown_extensions:
   - pymdownx.highlight:
