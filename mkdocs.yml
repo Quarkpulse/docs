@@ -2,6 +2,7 @@ site_name: Quarkpulse
 theme:
   name: material
   favicon: images/favicon.png
+  logo: images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
