@@ -27,6 +27,7 @@ theme:
       primary: blue
       accent: orange 
   icon:
+    annotation: material/leaf-circle
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
