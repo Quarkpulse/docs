@@ -50,10 +50,12 @@ nav:
     - 'Cloudoplossingen': 'Documentatie/cloudoplossingen.md'
     - 'Overige documentatie': 'Documentatie/overige-documentatie.md'
   - 'Veelgestelde vragen':
+    - 'Introductie': 'Veelgestelde vragen/introductie.md'
     - 'Algemene vragen': 'Veelgestelde vragen/algemene-vragen.md'
     - 'Dienstverlening': 'Veelgestelde vragen/dienstverlening.md'
     - 'Contact en support': 'Veelgestelde vragen/contact-support.md'
   - 'Tips en Best Practices':
+    - 'Introductie': 'Tips & Best Practices/introductie.md'
     - 'IT Beheer Tips': 'Tips & Best Practices/it-beheer-tips.md'
     - 'Cybersecurity Best Practices': 'Tips & Best Practices/cybersecurity-bestpractices.md'
     - 'Productiviteit Tips': 'Tips & Best Practices/productiviteit-tips.md'
