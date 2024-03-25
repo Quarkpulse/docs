@@ -17,7 +17,16 @@ Netwerkapparatuurondersteuning omvat het beheer, de configuratie en het onderhou
 ## 5. Gebruiker-ondersteuning
 Gebruikerondersteuning omvat technische ondersteuning, helpdeskondersteuning en probleemoplossing voor individuele gebruikers binnen het bedrijfsnetwerk. Quarkpulse biedt gebruikersbegeleiding, lost technische problemen op, beantwoordt vragen en biedt training en instructie indien nodig. Door toegankelijke en responsieve gebruikerondersteuning worden gebruikers in staat gesteld om effectief gebruik te maken van IT-hulpmiddelen en worden operationele onderbrekingen tot een minimum beperkt.
 
-## 6. Voordelen
+## Voordelen
 Maandelijkse IT-dienstverlening biedt klanten een proactieve benadering van IT-beheer, waardoor problemen vroegtijdig kunnen worden geïdentificeerd en opgelost. Door regelmatig onderhoud en monitoring wordt de stabiliteit, beveiliging en efficiëntie van het IT-netwerk van de klant verbeterd. Vaste maandelijkse tarieven stellen klanten in staat om IT-kosten te voorspellen en budgetten te beheren, terwijl ze tegelijkertijd profiteren van uitgebreide IT-ondersteuning en expertise.
+
+| Aspect                     | **Maandelijkse IT Dienstverlening**   | **Break en Fix Dienstverlening** |
+|----------------------------|---------------------------------------|----------------------------------|
+| **Proactieve benadering** | ✓ Proactieve monitoring en onderhoud van IT-infrastructuur | ✗ Reactieve benadering, ondersteuning alleen bij incidenten |
+| **Voorspelbare kosten**    | ✓ Vaste maandelijkse tarieven        | ✗ Kosten variëren afhankelijk van gebruiksuren |
+| **Continu beheer**         | ✓ Doorlopende ondersteuning voor desktops, servers, printers, enz. | ✗ Ondersteuning alleen wanneer nodig |
+| **Stabiliteit en beveiliging** | ✓ Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | ✗ Incidentele ondersteuning, geen doorlopend beheer |
+| **Flexibiliteit**          | ✗ Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | ✓ Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
+| **Kostenbeheer**           | ✓ Voorspelbare maandelijkse kosten | ✗ Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
 
 In het algemeen biedt maandelijkse IT-dienstverlening klanten een kosteneffectieve en proactieve oplossing voor het beheer van hun IT-infrastructuur, waardoor operationele efficiëntie wordt verbeterd en risico's worden verminderd.
