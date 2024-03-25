@@ -1,7 +1,5 @@
 # Quarkpulse Support
 
-Bij Quarkpulse streven we naar een uitstekende klantenservice en ondersteuning die aansluit bij uw specifieke behoeften. Ons supportteam staat klaar om u te helpen bij al uw IT-gerelateerde vragen en problemen, en we bieden verschillende ondersteuningskanalen afhankelijk van uw dienstverlening en gebruikerspositie/functie.
-
 ## Ondersteuningskanalen
 
 1. **Online portaal:** Beschikbaar voor alle klanten voor het indienen van ondersteuningsverzoeken en het volgen van ticketstatussen.
