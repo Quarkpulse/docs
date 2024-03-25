@@ -1,3 +1,5 @@
+![Hero Image](images/Hero.jpg)
+
 # Start
 Quarkpulse is een jong IT-bedrijf in Suriname dat `IT for hire` diensten levert aan kleine en middelgrote bedrijven. Met een focus op proactieve dienstverlening en klantgerichtheid streven we ernaar om de IT-omgeving van onze klanten te optimaliseren, te beveiligen en te onderhouden, zodat zij zich kunnen concentreren op hun kernactiviteiten en bedrijfsgroei.
 
