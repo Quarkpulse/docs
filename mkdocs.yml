@@ -24,7 +24,7 @@ theme:
       toggle: 
         icon: material/toggle-switch
         name: Schakel naar light mode
-      primary: deep purple
+      primary: blue grey
       accent: orange
 
 nav:
