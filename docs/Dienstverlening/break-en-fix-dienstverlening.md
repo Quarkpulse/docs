@@ -14,7 +14,18 @@ Break en Fix dienstverlening wordt op afroep geleverd, wat betekent dat klanten 
 ## 4. Flexibele tarieven
 Quarkpulse hanteert flexibele tarieven voor Break en Fix diensten, afhankelijk van de complexiteit van het probleem, de vereiste expertise en de duur van de interventie. Het tarief kan variëren afhankelijk van de aard van de dienstverlening en de vereiste vaardigheden van de IT-technicus.
 
-## 5. Voordelen
+## Voordelen
 Break en Fix dienstverlening biedt klanten een kosteneffectieve oplossing voor het beheer van IT-problemen, aangezien zij alleen betalen voor de daadwerkelijk verleende diensten. Klanten profiteren van snelle respons en probleemoplossing door ervaren IT-professionals. Flexibele tarieven stellen klanten in staat om IT-diensten af te nemen volgens hun behoeften en budget, zonder zich te hoeven binden aan langlopende contracten.
+
+
+| Aspect                     | **Maandelijkse IT Dienstverlening**   | **Break en Fix Dienstverlening** |
+|----------------------------|---------------------------------------|----------------------------------|
+| **Proactieve benadering** | ✓ Proactieve monitoring en onderhoud van IT-infrastructuur | ✗ Reactieve benadering, ondersteuning alleen bij incidenten |
+| **Voorspelbare kosten**    | ✓ Vaste maandelijkse tarieven        | ✗ Kosten variëren afhankelijk van gebruiksuren |
+| **Continu beheer**         | ✓ Doorlopende ondersteuning voor desktops, servers, printers, enz. | ✗ Ondersteuning alleen wanneer nodig |
+| **Stabiliteit en beveiliging** | ✓ Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | ✗ Incidentele ondersteuning, geen doorlopend beheer |
+| **Flexibiliteit**          | ✗ Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | ✓ Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
+| **Kostenbeheer**           | ✓ Voorspelbare maandelijkse kosten | ✗ Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
+
 
 In het algemeen biedt Break en Fix dienstverlening klanten de mogelijkheid om IT-problemen snel en efficiënt op te lossen, terwijl ze tegelijkertijd kosten en middelen besparen door alleen te betalen voor de daadwerkelijk geleverde diensten.
