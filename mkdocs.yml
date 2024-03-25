@@ -88,6 +88,7 @@ extra:
       link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
 
 markdown_extensions:
+  - abbr
   - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
