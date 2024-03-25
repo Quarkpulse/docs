@@ -25,38 +25,6 @@ theme:
       primary: blue
       accent: orange
 
-nav:
-  - Start: index.md
-  - IT for hire:
-    - Introductie: it-for-hire/introductie.md
-    - Wat is IT for hire?: it-for-hire/wat-is.md
-    - Voor wie is IT for hire?: it-for-hire/voor-wie.md
-    - IT Support: it-for-hire/it-support.md
-  - Dienstverlening:
-    - Introductie: dienstverlening/introductie.md
-    - Wat zijn dienstverleningsmodellen?: dienstverlening/wat-zijn-modellen.md
-    - Waarom Dienstverleningsmodellen gebruiken?: dienstverlening/waarom-modellen-gebruiken.md
-    - Break en Fix Dienstverlening: dienstverlening/break-en-fix-dienstverlening.md
-    - Maandelijkse IT Dienstverlening: dienstverlening/maandelijkse-it-dienstverlening.md
-    - Onboarding proces: dienstverlening/onboarding-proces.md
-    - Quarkpulse Support: dienstverlening/quarkpulse-support.md
-  - Documentatie:
-    - Inleiding: documentatie/inleiding.md
-    - Netwerkconfiguratie: documentatie/netwerkconfiguratie.md
-    - Serverbeheer: documentatie/serverbeheer.md
-    - Cybersecurity: documentatie/cybersecurity.md
-    - Cloudoplossingen: documentatie/cloudoplossingen.md
-    - Overige documentatie: documentatie/overige-documentatie.md
-  - Veelgestelde vragen:
-    - Algemene vragen: veelgestelde-vragen/algemene-vragen.md
-    - Dienstverlening: veelgestelde-vragen/dienstverlening.md
-    - Contact en support: veelgestelde-vragen/contact-support.md
-  - Tips en Best Practices:
-    - IT Beheer Tips: tips/it-beheer-tips.md
-    - Cybersecurity Best Practices: tips/cybersecurity-bestpractices.md
-    - Productiviteit Tips: tips/productiviteit-tips.md
-    - Technische Ondersteuning Tips: tips/technische-support-tips.md
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
