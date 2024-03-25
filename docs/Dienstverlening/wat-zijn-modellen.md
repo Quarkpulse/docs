@@ -28,7 +28,7 @@ Bij het definiëren van een dienstverleningsmodel moeten verschillende factoren 
 
 Door een duidelijk dienstverleningsmodel te definiëren, kunnen serviceproviders hun diensten effectief leveren, klanttevredenheid maximaliseren en zakelijk succes behalen.
 
-### Belangrijkste kenmerken van dienstverleningsmodellen:
+## Belangrijkste kenmerken van dienstverleningsmodellen:
 
 1. **Flexibiliteit:** Dienstverleningsmodellen kunnen variëren afhankelijk van de behoeften van de klant en de aard van de dienstverlening. Flexibiliteit is essentieel om aan de diverse eisen van verschillende klanten te voldoen.
 
