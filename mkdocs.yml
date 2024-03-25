@@ -16,13 +16,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Schakel naar dark mode
       primary: blue
       accent: amber
     - scheme: slate
       toggle: 
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Schakel naar light mode
       primary: blue
       accent: orange
