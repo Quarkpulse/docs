@@ -14,7 +14,7 @@ Bij "IT for hire" is het essentieel dat zowel de dienstverlener als de klant dui
 
 Bij Quarkpulse streven we ernaar om onze klanten hoogwaardige IT-diensten te bieden die zijn afgestemd op hun specifieke behoeften en budget. Met onze proactieve benadering van dienstverlening en ervaren IT-professionals zijn we toegewijd aan het leveren van betrouwbare, kosteneffectieve oplossingen die bedrijven helpen te groeien en te gedijen in een steeds veranderend technologisch landschap.
 
-### Voordelen van IT for hire bij Quarkpulse
+## Voordelen van IT for hire bij Quarkpulse
 
 - **Flexibiliteit**: IT for hire biedt bedrijven de flexibiliteit om snel te reageren op veranderende behoeften en technologische ontwikkelingen.
   
