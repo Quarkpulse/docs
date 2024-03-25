@@ -9,6 +9,7 @@
 ## Service Level Overeenkomsten (SLO's)
 
 We hanteren strikte Service Level Overeenkomsten om ervoor te zorgen dat uw ondersteuningsverzoeken tijdig worden behandeld. Onze standaard SLO's zijn als volgt:
+
 - **Kritieke incidenten:** Binnen 1 uur na ontvangst van het ticket.
 - **Belangrijke incidenten:** Binnen 4 uur na ontvangst van het ticket.
 - **Algemene vragen of verzoeken:** Binnen 1 werkdag na ontvangst van het ticket.
@@ -16,6 +17,7 @@ We hanteren strikte Service Level Overeenkomsten om ervoor te zorgen dat uw onde
 ## Richtlijnen voor het indienen van ondersteuningsverzoeken
 
 Bij het indienen van een ondersteuningsverzoek, zorg ervoor dat u de volgende informatie verstrekt:
+
 1. Een gedetailleerde beschrijving van het probleem of verzoek.
 2. Eventuele relevante foutmeldingen of schermafbeeldingen.
 3. Het systeem of de apparatuur waarop het probleem zich voordoet.
