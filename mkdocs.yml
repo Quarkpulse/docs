@@ -1,8 +1,9 @@
 site_name: Quarkpulse
+
 theme:
   name: material
-  favicon: :octicons-pulse:
-  logo: :octicons-pulse-16:
+  favicon: assets/favicon.png
+  logo: assets/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -44,7 +45,7 @@ theme:
       quote: octicons/quote-16
 
 nav:
-  - 'Start': 'index.md'
+  - 'Home': 'index.md'
   - 'IT for hire':
     - 'Introductie': 'IT for hire/introductie.md'
     - 'Wat is IT for hire?': 'IT for hire/wat-is.md'
@@ -88,6 +89,11 @@ extra:
     - icon: fontawesome/brands/whatsapp
       link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
 
+plugin:
+  - search
+  - social
+  - typeset
+
 markdown_extensions:
   - abbr
   - md_in_html
@@ -106,8 +112,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - toc:
-      permalink: true
 
 copyright: |
   &copy; 2024 <a href="https://github.com/Quarkpulse" target="_blank" rel="noopener">Quarkpulse</a>
