@@ -1,8 +1,8 @@
 site_name: Quarkpulse
 theme:
   name: material
-  favicon: :octicons-pulse:
-  logo: :octicons-pulse-16:
+  favicon: images/favicon.png
+  logo: images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
