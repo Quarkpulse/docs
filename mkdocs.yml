@@ -90,6 +90,8 @@ extra:
 
 markdown_extensions:
   - abbr
+  - toc:
+      permalink: true
   - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
