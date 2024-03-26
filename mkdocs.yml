@@ -1,4 +1,5 @@
 site_name: Quarkpulse
+
 theme:
   name: material
   favicon: assets/favicon.png
