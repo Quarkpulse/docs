@@ -106,8 +106,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - toc:
-      permalink: true
 
 copyright: |
   &copy; 2024 <a href="https://github.com/Quarkpulse" target="_blank" rel="noopener">Quarkpulse</a>
