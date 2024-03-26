@@ -45,7 +45,7 @@ theme:
       quote: octicons/quote-16
 
 nav:
-  - 'Home': 'index.md'
+  - 'Docs': 'index.md'
   - 'IT for hire':
     - 'Introductie': 'IT for hire/introductie.md'
     - 'Wat is IT for hire?': 'IT for hire/wat-is.md'
@@ -95,6 +95,8 @@ plugin:
   - typeset
 
 markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
   - abbr
   - md_in_html
   - pymdownx.highlight:
