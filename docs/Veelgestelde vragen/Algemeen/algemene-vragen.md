@@ -1,3 +1,6 @@
+??? warning "Waarschuwing"
+    Deze pagina is nog onder constructie! Blijf ons wel in de gaten houden. :heart:
+
 # Algemene vragen
 
 ## Wat is IT for hire?

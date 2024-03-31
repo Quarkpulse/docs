@@ -1,6 +1,6 @@
 # Introductie
 
-Welkom bij de introductie van de dienstverlening van Quarkpulse. In deze sectie krijgt u een overzicht van de verschillende diensten die wij aanbieden om uw IT-infrastructuur te ondersteunen en te verbeteren. Bij Quarkpulse streven we ernaar om onze klanten de best mogelijke service te bieden en streven we naar een langdurige samenwerking waarin we samenwerken aan het succes van uw bedrijf.
+In deze sectie krijgt u een overzicht van de verschillende diensten die wij aanbieden om uw IT-infrastructuur te ondersteunen en te verbeteren. Bij Quarkpulse streven we ernaar om onze klanten de best mogelijke service te bieden en streven we naar een langdurige samenwerking waarin we samenwerken aan het succes van uw bedrijf.
 
 ## Overzicht van Diensten
 

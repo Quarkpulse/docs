@@ -1,3 +1,6 @@
+??? warning "Waarschuwing"
+    Deze pagina is nog onder constructie! Blijf ons wel in de gaten houden. :heart:
+
 ## Cybersecurity
 
 - **Malwarepreventie en detectie**: Tips en tools voor het voorkomen en detecteren van malware-infecties.

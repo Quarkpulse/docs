@@ -8,7 +8,7 @@ Hier vind je een verzameling technische documentatie en instructies voor het beh
   
 - **Netwerkbeveiliging**: Richtlijnen en best practices voor het beveiligen van jouw bedrijfsnetwerk tegen cyberdreigingen.
 
-## Serverbeheer
+## [Serverbeheer](../../Documentatie/Beheer/serverbeheer)
 
 - **Serverinstallatie en configuratie**: Instructies voor het installeren, configureren en onderhouden van servers.
   

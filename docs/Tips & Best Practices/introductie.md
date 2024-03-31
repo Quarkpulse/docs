@@ -1,29 +1,42 @@
 # Tips
 
-Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybersecurity, en meer. Deze tips helpen je om je IT-infrastructuur te optimaliseren, beveiligen en efficiënt te beheren. Bekijk hieronder enkele handige tips:
+Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybersecurity, en meer. Deze tips helpen je om je IT-infrastructuur te optimaliseren, beveiligen en efficiënt te beheren. Navigeer hieronder naar enkele handige tips:
 
-## IT Beheer Tips
+<div class="grid cards" markdown>
 
-- Zorg voor regelmatige back-ups van belangrijke gegevens om dataverlies te voorkomen.
-  
-- Houd software en systemen up-to-date door regelmatig updates en patches te installeren.
+-   :octicons-command-palette-24:{ .lg .middle } __IT Beheer Tips__
 
-## Cybersecurity Best Practices
+    ---
 
-- Implementeer sterke wachtwoordbeleid en moedig medewerkers aan om unieke en complexe wachtwoorden te gebruiken.
-  
-- Gebruik multifactor-authenticatie (MFA) voor extra beveiliging van accounts en systemen.
+    Houd software en systemen up-to-date door regelmatig updates en patches te installeren.
 
-## Productiviteit Tips
+    [:octicons-workflow-24: IT Beheer](../../Tips%20%26%20Best%20Practices/IT/it-beheer-tips)
 
-- Maak gebruik van projectmanagementtools en samenwerkingstools om de productiviteit van het team te verbeteren.
-  
-- Stel duidelijke communicatiekanalen in om efficiënte communicatie binnen het bedrijf te bevorderen.
+-   :material-shield:{ .lg .middle } __Cybersecurity Best Practices__
 
-## Technische Ondersteuning Tips
+    ---
 
-- Documenteer technische procedures en instructies om het oplossen van veelvoorkomende IT-problemen te vergemakkelijken.
-  
-- Bied regelmatige training en ondersteuning aan medewerkers om hun technische vaardigheden te verbeteren.
+    Implementeer sterke wachtwoordbeleid en moedig medewerkers aan om unieke en complexe wachtwoorden te gebruiken.
 
-Dit zijn slechts enkele tips om je op weg te helpen naar een beter beheer van jouw IT-omgeving. Blijf deze pagina volgen voor meer handige tips en best practices!
+    [:octicons-shield-24: Security](../../Tips%20%26%20Best%20Practices/introductie)
+
+-   :fontawesome-solid-file-pen:{ .lg .middle } __Productiviteit Tips__
+
+    ---
+
+    Stel duidelijke communicatiekanalen in om efficiënte communicatie binnen het bedrijf te bevorderen.
+
+    [:octicons-project-roadmap-24: Productiviteit](../../Tips%20%26%20Best%20Practices/Productiviteit/productiviteit-tips)
+
+-   :material-frequently-asked-questions:{ .lg .middle } __Technische Ondersteuning Tips__
+
+    ---
+
+    Documenteer technische incidenten zoveel mogelijk om het oplossen van veelvoorkomende IT-problemen te vergemakkelijken.
+
+    [:octicons-thumbsup-24: IT Support Tips](../../Tips%20%26%20Best%20Practices/Support/technische-support-tips)
+
+</div>
+
+!!! abstract ""
+    Dit zijn slechts enkele tips om je op weg te helpen naar een beter beheer van jouw IT-omgeving. Blijf deze pagina volgen voor meer handige tips en best practices!
