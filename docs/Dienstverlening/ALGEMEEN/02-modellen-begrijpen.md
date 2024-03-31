@@ -1,4 +1,4 @@
-# Wat zijn Dienstverleningsmodellen?
+# Dienst modellen begrijpen
 
 Dienstverleningsmodellen zijn strategieën die worden gebruikt om de levering van diensten te organiseren, te structureren en te factureren. Ze definiëren de manier waarop diensten worden geleverd aan klanten en hoe de kosten worden berekend. Deze modellen variëren afhankelijk van de aard van de dienstverlening, de behoeften van de klant en de zakelijke doelstellingen van de serviceprovider.
 

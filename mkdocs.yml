@@ -7,7 +7,11 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes        
     - navigation.top
+    - toc.follow    
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -29,6 +33,10 @@ theme:
       primary: blue
       accent: orange 
   icon:
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
     annotation: material/leaf-circle
     admonition:
       note: octicons/tag-16
@@ -44,41 +52,18 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
-nav:
-  - 'Docs': 'index.md'
-  - 'IT for hire':
-    - 'Introductie': 'IT for hire/introductie.md'
-    - 'Wat is IT for hire?': 'IT for hire/wat-is.md'
-    - 'Voor wie is IT for hire?': 'IT for hire/voor-wie.md'
-    - 'IT Support': 'IT for hire/it-support.md'
-  - 'Dienstverlening':
-    - 'Introductie': 'Dienstverlening/introductie.md'
-    - 'Wat zijn dienstverleningsmodellen?': 'Dienstverlening/wat-zijn-modellen.md'
-    - 'Waarom Dienstverleningsmodellen gebruiken?': 'Dienstverlening/waarom-modellen-gebruiken.md'
-    - 'Break en Fix Dienstverlening': 'Dienstverlening/break-en-fix-dienstverlening.md'
-    - 'Maandelijkse IT Dienstverlening': 'Dienstverlening/maandelijkse-it-dienstverlening.md'
-    - 'Onboarding proces': 'Dienstverlening/onboarding-proces.md'
-    - 'Quarkpulse Support': 'Dienstverlening/quarkpulse-support.md'
-  - 'Documentatie':
-    - 'Inleiding': 'Documentatie/inleiding.md'
-    - 'Netwerkconfiguratie': 'Documentatie/netwerkconfiguratie.md'
-    - 'Serverbeheer': 'Documentatie/serverbeheer.md'
-    - 'Cybersecurity': 'Documentatie/cybersecurity.md'
-    - 'Cloudoplossingen': 'Documentatie/cloudoplossingen.md'
-    - 'Overige documentatie': 'Documentatie/overige-documentatie.md'
-  - 'Veelgestelde vragen':
-    - 'Introductie': 'Veelgestelde vragen/introductie.md'
-    - 'Algemene vragen': 'Veelgestelde vragen/algemene-vragen.md'
-    - 'Dienstverlening': 'Veelgestelde vragen/dienstverlening.md'
-    - 'Contact en support': 'Veelgestelde vragen/contact-support.md'
-  - 'Tips en Best Practices':
-    - 'Introductie': 'Tips & Best Practices/introductie.md'
-    - 'IT Beheer Tips': 'Tips & Best Practices/it-beheer-tips.md'
-    - 'Cybersecurity Best Practices': 'Tips & Best Practices/cybersecurity-bestpractices.md'
-    - 'Productiviteit Tips': 'Tips & Best Practices/productiviteit-tips.md'
-    - 'Technische Ondersteuning Tips': 'Tips & Best Practices/technische-support-tips.md'
+
 
 extra:
+  analytics:
+    provider: google
+    property: G-XFMJKCVBVZ
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+  status:
+    <identifier>: <description>
   generator: false
   social:
     - icon: fontawesome/brands/github-alt
@@ -91,14 +76,22 @@ extra:
       link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
 
 plugin:
+  - tags
   - search
   - social
   - typeset
 
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-  - abbr
+  - attr_list
   - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
@@ -117,8 +110,8 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
   &copy; 2024 <a href="https://github.com/Quarkpulse" target="_blank" rel="noopener">Quarkpulse</a>

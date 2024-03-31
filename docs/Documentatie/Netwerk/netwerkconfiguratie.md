@@ -16,7 +16,7 @@
 
 7. **Draadloos Gastennetwerk:** Een apart gastennetwerk wordt geïmplementeerd bijvoorbeeld op het subnet 10.0.1.0/24 voor klanten en bezoekers van het bedrijf. Dit netwerk is gescheiden van het interne netwerk van het bedrijf en biedt alleen internettoegang zonder toegang tot interne bronnen of gevoelige informatie.
 
-Hier is een vereenvoudigd diagram van het netwerkarchitectuur met behulp van Mermaid:
+Hier is een vereenvoudigd diagram van het netwerkarchitectuur:
 
 ```mermaid
 graph TD;
@@ -47,7 +47,7 @@ Dit diagram toont de verbindingen tussen de verschillende netwerkcomponenten en 
 
 7. **Draadloos Gastennetwerk:** Een apart gastennetwerk wordt geïmplementeerd bijvoorbeeld op het subnet 10.0.1.0/24 voor klanten en bezoekers van het bedrijf. Dit netwerk is gescheiden van het interne netwerk van het bedrijf en biedt alleen internettoegang zonder toegang tot interne bronnen of gevoelige informatie.
 
-Hier is een vereenvoudigd diagram van het netwerkarchitectuur met behulp van Mermaid:
+Hier is een vereenvoudigd diagram van het netwerkarchitectuur:
 
 ```mermaid
 graph TD;

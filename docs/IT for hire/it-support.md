@@ -1,6 +1,11 @@
 # IT Support
 
-Quarkpulse biedt uitgebreide IT-ondersteuning voor bedrijven die gebruikmaken van het "IT for hire" model. Onze deskundige IT-professionals staan klaar om te helpen bij een breed scala aan IT-gerelateerde taken en uitdagingen, waardoor klanten zich kunnen concentreren op hun kernactiviteiten zonder zich zorgen te maken over technische problemen.
+Quarkpulse biedt IT-ondersteuning voor bedrijven die gebruikmaken van het "IT for hire" model. Onze deskundige IT-professionals staan klaar om te helpen bij een breed scala aan IT-gerelateerde taken en uitdagingen, waardoor klanten zich kunnen concentreren op hun kernactiviteiten zonder zich zorgen te maken over technische problemen.
+
+Bekijk de twee dienstmodellen:
+
+- [x] [Break en Fix](../../Dienstverlening/DIENSTEN/Break-en-Fix/break-en-fix-dienstverlening)
+- [x] [Maandelijkse IT Dienst](../../Dienstverlening/DIENSTEN/QMS/maandelijkse-it-dienstverlening)
 
 ## Proactieve monitoring en onderhoud
 

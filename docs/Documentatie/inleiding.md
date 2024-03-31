@@ -28,8 +28,8 @@ Hier vind je een verzameling technische documentatie en instructies voor het beh
 
 ## Overige documentatie
 
-- **Software-installatiehandleidingen**: Stapsgewijze instructies voor het installeren van softwaretoepassingen.
+- **Software-installatiehandleidingen**: Stapsgewijze instructies voor het installeren van softwareapplicaties.
   
 - **Troubleshooting-gidsen**: Probleemoplossingsstappen voor veelvoorkomende IT-problemen.
 
-Heb je specifieke documentatie nodig die hier niet wordt vermeld? Neem dan gerust contact met ons op via sales.quarkpulse@gmail.com en laat het ons weten. We helpen je graag verder!
+Heb je specifieke documentatie nodig die hier niet voorkomt? Neem dan gerust contact met ons op via sales.quarkpulse@gmail.com en laat het ons weten. We helpen je graag verder!

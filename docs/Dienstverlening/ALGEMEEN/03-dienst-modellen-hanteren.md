@@ -1,4 +1,4 @@
-# Waarom Dienstverleningsmodellen gebruiken?
+# Dienst modellen hanteren
 
 Dienstverleningsmodellen bieden verschillende voordelen voor zowel serviceproviders als klanten. Hier zijn enkele redenen waarom het gebruik van dienstverleningsmodellen essentieel is:
 

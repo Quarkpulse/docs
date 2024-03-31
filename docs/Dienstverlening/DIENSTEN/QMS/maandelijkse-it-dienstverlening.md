@@ -1,4 +1,4 @@
-# Maandelijkse IT Dienstverlening
+# Maandelijkse Dienstverlening
 
 Maandelijkse IT-dienstverlening is een proactief service model waarbij klanten een vast bedrag betalen voor doorlopende ondersteuning en onderhoud van hun IT-infrastructuur. Deze diensten worden regelmatig geleverd om de stabiliteit, veiligheid en efficiëntie van de IT-omgeving van de klant te waarborgen. Hieronder volgt een uitgebreide omschrijving van de belangrijkste aspecten van maandelijkse IT-dienstverlening:
 
@@ -22,11 +22,11 @@ Maandelijkse IT-dienstverlening biedt klanten een proactieve benadering van IT-b
 
 | Aspect                     | **Maandelijkse IT Dienstverlening**   | **Break en Fix Dienstverlening** |
 |----------------------------|---------------------------------------|----------------------------------|
-| **Proactieve benadering** | ✓ Proactieve monitoring en onderhoud van IT-infrastructuur | ✗ Reactieve benadering, ondersteuning alleen bij incidenten |
-| **Voorspelbare kosten**    | ✓ Vaste maandelijkse tarieven        | ✗ Kosten variëren afhankelijk van gebruiksuren |
-| **Continu beheer**         | ✓ Doorlopende ondersteuning voor desktops, servers, printers, enz. | ✗ Ondersteuning alleen wanneer nodig |
-| **Stabiliteit en beveiliging** | ✓ Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | ✗ Incidentele ondersteuning, geen doorlopend beheer |
-| **Flexibiliteit**          | ✗ Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | ✓ Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
-| **Kostenbeheer**           | ✓ Voorspelbare maandelijkse kosten | ✗ Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
+| **Proactieve benadering** | :material-check: Proactieve monitoring en onderhoud van IT-infrastructuur | :material-close: Reactieve benadering, ondersteuning alleen bij incidenten |
+| **Voorspelbare kosten**    | :material-check: Vaste maandelijkse tarieven        | :material-close: Kosten variëren afhankelijk van gebruiksuren |
+| **Continu beheer**         | :material-check: Doorlopende ondersteuning voor desktops, servers, printers, enz. | :material-close: Ondersteuning alleen wanneer nodig |
+| **Stabiliteit en beveiliging** | :material-check: Regelmatig onderhoud voor verbeterde stabiliteit en veiligheid | :material-close: Incidentele ondersteuning, geen doorlopend beheer |
+| **Flexibiliteit**          | :material-close: Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | :material-check: Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
+| **Kostenbeheer**           | :material-check: Voorspelbare maandelijkse kosten | :material-close: Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
 
 In het algemeen biedt maandelijkse IT-dienstverlening klanten een kosteneffectieve en proactieve oplossing voor het beheer van hun IT-infrastructuur, waardoor operationele efficiëntie wordt verbeterd en risico's worden verminderd.

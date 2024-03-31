@@ -30,4 +30,4 @@ We begrijpen dat uw bedrijf kan groeien en veranderen, en onze dienstverlening k
 
 ## Samenwerkingsbenadering
 
-Bij Quarkpulse geloven we in een samenwerkingsbenadering. We werken nauw samen met onze klanten om hun bedrijfsdoelstellingen te begrijpen en op maat gemaakte IT-oplossingen te leveren die deze doelstellingen ondersteunen.
+We geloven in een samenwerkingsbenadering. We werken nauw samen met onze klanten om hun bedrijfsdoelstellingen te begrijpen en op maat gemaakte IT-oplossingen te leveren die deze doelstellingen ondersteunen.
