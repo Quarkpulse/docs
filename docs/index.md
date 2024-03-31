@@ -15,40 +15,41 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire
 
     Ontdek een algemene introductie van het IT for Hire concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
 
-    [:octicons-arrow-right-24: Aan de slag](IT for hire/introductie)
+    [:octicons-workflow-24: Aan de slag](IT for hire/introductie)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Dienstverlening__
+-   :fontawesome-solid-hand-holding-droplet:{ .lg .middle } __Dienstverlening__
 
     ---
 
     Leer meer over de verschillende dienstverleningsmodellen die Quarkpulse aanbiedt, inclusief de voordelen en nadelen van elk model.
 
-    [:octicons-arrow-right-24: Diensten](Dienstverlening/ALGEMEEN/01-introductie)
+    [:octicons-package-24: Diensten](Dienstverlening/ALGEMEEN/01-introductie)
 
--   :material-format-font:{ .lg .middle } __Documentatie__
+-   :fontawesome-solid-file-pen:{ .lg .middle } __Documentatie__
 
     ---
 
     Vind technische documentatie en instructies voor het beheren van uw IT-infrastructuur, inclusief netwerkconfiguratie, serverbeheer, cybersecurity en meer.
 
-    [:octicons-arrow-right-24: Documentatie](Documentatie/inleiding)
+    [:octicons-paperclip-24: Documentatie](Documentatie/inleiding)
 
--   :material-scale-balance:{ .lg .middle } __FAQs__
+-   :material-frequently-asked-questions:{ .lg .middle } __FAQs__
 
     ---
 
     Bekijk onze lijst met veelgestelde vragen en vind antwoorden op de meest voorkomende vragen over Quarkpulse en onze diensten.
 
-    [:octicons-arrow-right-24: FAQs](Veelgestelde vragen/introductie)
+    [:octicons-question-24: FAQs](Veelgestelde vragen/introductie)
 
--   :material-scale-balance:{ .lg .middle } __Tips en Best Practices__
+-   :material-tooltip-text:{ .lg .middle } __Tips en Best Practices__
 
     ---
 
     Ontvang handige tips en best practices voor het optimaliseren van uw IT-omgeving en het maximaliseren van de voordelen van onze dienstverlening.
 
-    [:octicons-arrow-right-24: Tips](Tips & Best Practices/introductie)    
+    [:octicons-thumbsup-24: Tips](Tips & Best Practices/introductie)    
 
 </div>
 
-We hopen dat u de informatie op Quarkpulse Docs nuttig zult vinden. Als u nog vragen heeft, aarzel dan niet om contact met ons op te nemen via sales.quarkpulse@gmail.com. We staan ​​klaar om u te helpen!
+!!! abstract ""
+    We hopen dat u de informatie op Quarkpulse Docs nuttig zult vinden. Als u nog vragen heeft, aarzel dan niet om contact met ons op te nemen via [sales.quarkpulse@gmail.com](mailto:sales.quarkpulse@gmail.com). We staan ​​klaar om u te helpen!

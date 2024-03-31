@@ -52,26 +52,10 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
-
-
 extra:
   analytics:
     provider: google
     property: G-XFMJKCVBVZ
-  analytics: 
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Dankjewel voor je feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >- 
-            Dankje voor je feedback! We nemen het ter harte en zullen aan verbetering werking.
   tags:
     HTML5: html
     JavaScript: js
@@ -82,12 +66,14 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://normanvillefort.github.io/
+    - icon: fontawesome/brands/whatsapp
+      link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/quarkpulse
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quarkpulse/
-    - icon: fontawesome/brands/whatsapp
-      link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
+    - icon: fontawesome/brands/threads
+      link: https://www.threads.net/@quarkpulse
 
 plugin:
   - tags

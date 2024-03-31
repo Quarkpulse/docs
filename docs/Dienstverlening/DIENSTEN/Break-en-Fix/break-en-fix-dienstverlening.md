@@ -28,4 +28,5 @@ Break en Fix dienstverlening biedt klanten een kosteneffectieve oplossing voor h
 | **Kostenbeheer**           | :material-check: Voorspelbare maandelijkse kosten | :material-close: Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
 
 
-In het algemeen biedt Break en Fix dienstverlening klanten de mogelijkheid om IT-problemen snel en efficiënt op te lossen, terwijl ze tegelijkertijd kosten en middelen besparen door alleen te betalen voor de daadwerkelijk geleverde diensten.
+!!! tip "Opmerking"
+    In het algemeen biedt Break en Fix dienstverlening klanten de mogelijkheid om IT-problemen snel en efficiënt op te lossen, terwijl ze tegelijkertijd kosten en middelen besparen door alleen te betalen voor de daadwerkelijk geleverde diensten.

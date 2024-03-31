@@ -1,6 +1,9 @@
 # Maandelijkse Dienstverlening
 
-Maandelijkse IT-dienstverlening is een proactief service model waarbij klanten een vast bedrag betalen voor doorlopende ondersteuning en onderhoud van hun IT-infrastructuur. Deze diensten worden regelmatig geleverd om de stabiliteit, veiligheid en efficiëntie van de IT-omgeving van de klant te waarborgen. Hieronder volgt een uitgebreide omschrijving van de belangrijkste aspecten van maandelijkse IT-dienstverlening:
+Maandelijkse IT-dienstverlening (1) is een proactief service model waarbij klanten een vast bedrag betalen voor doorlopende ondersteuning en onderhoud van hun IT-infrastructuur. Deze diensten worden regelmatig geleverd om de stabiliteit, veiligheid en efficiëntie van de IT-omgeving van de klant te waarborgen. Hieronder volgt een uitgebreide omschrijving van de belangrijkste aspecten van maandelijkse IT-dienstverlening:
+{ .annotate }
+
+1.  :wave_tone3: De Maandelijkse IT Diensverlening wordt officieel Quarkpusle Managed Services (QMS) genoemd.
 
 ## 1. Desktop- en Laptop-ondersteuning
 Desktop-/laptopondersteuning omvat proactieve monitoring, onderhoud en ondersteuning van de computersystemen van de klant. Quarkpulse zorgt voor het installeren van software-updates, het uitvoeren van systeemcontroles, het oplossen van softwareproblemen en het bieden van technische ondersteuning aan gebruikers. Door regelmatige monitoring en onderhoud worden potentiële problemen vroegtijdig geïdentificeerd en opgelost, wat de productiviteit van de gebruikers verhoogt en de kans op storingen vermindert.
@@ -29,4 +32,5 @@ Maandelijkse IT-dienstverlening biedt klanten een proactieve benadering van IT-b
 | **Flexibiliteit**          | :material-close: Vaste tarieven kunnen beperkend zijn voor klanten met variabele behoeften | :material-check: Flexibele ondersteuning op afroep, betalen alleen voor gebruiksuren |
 | **Kostenbeheer**           | :material-check: Voorspelbare maandelijkse kosten | :material-close: Kosten kunnen variëren, afhankelijk van de omvang van het probleem |
 
-In het algemeen biedt maandelijkse IT-dienstverlening klanten een kosteneffectieve en proactieve oplossing voor het beheer van hun IT-infrastructuur, waardoor operationele efficiëntie wordt verbeterd en risico's worden verminderd.
+!!! tip "Opmerking"
+    In het algemeen biedt maandelijkse IT-dienstverlening klanten een kosteneffectieve en proactieve oplossing voor het beheer van hun IT-infrastructuur, waardoor operationele efficiëntie wordt verbeterd en risico's worden verminderd.

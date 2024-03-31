@@ -5,9 +5,9 @@ Ons onboarding proces is ontworpen om u te begeleiden bij de overgang naar onze 
 Over het algemeen kan het er zo ongeveer gaan uitzien:
 
 - [x] Intakegesprek / Consultatiegesprek
-- [x] Registratie en Contractafhandeling
-- [x] Ticketing en Ondersteuningssysteem
-- [x] Toewijzing van Technici
-- [x] Oplossing van Probleem
-- [x] Rapportage en Feedback
+- [ ] Registratie en Contractafhandeling
+- [ ] Ticketing en Ondersteuningssysteem
+- [ ] Toewijzing van Technici
+- [ ] Oplossing van Probleem
+- [ ] Rapportage en Feedback
 - [ ] Evaluatie en Verbetering

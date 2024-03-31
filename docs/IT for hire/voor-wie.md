@@ -22,14 +22,14 @@ Ook non-profitorganisaties kunnen profiteren van "IT for hire" door toegang te k
 
 Quarkpulse bedient klanten in verschillende sectoren, waaronder:
 
-- Gezondheidszorg
-- Onderwijs
-- Detailhandel
-- Financiële dienstverlening
-- Productie
-- Technologie
-- Hospitality
-- Juridisch
+- [x] Gezondheidszorg
+- [x] Onderwijs
+- [x] Detailhandel
+- [x] Financiële dienstverlening
+- [x] Productie
+- [x] Technologie
+- [x] Hospitality
+- [x] Juridisch
 
 
 Kortom, "IT for hire" is geschikt voor elk bedrijf of organisatie dat op zoek is naar hoogwaardige IT-diensten zonder de last van het beheren van een intern IT-team. Of het nu gaat om kleine startups, middelgrote bedrijven, grote ondernemingen, non-profitorganisaties of organisaties in diverse industrieën, "IT for hire" biedt flexibele, kosteneffectieve oplossingen die zijn afgestemd op de specifieke behoeften van elke klant.
