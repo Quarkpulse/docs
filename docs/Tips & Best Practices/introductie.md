@@ -2,6 +2,8 @@
 
 Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybersecurity, en meer. Deze tips helpen je om je IT-infrastructuur te optimaliseren, beveiligen en efficiënt te beheren. Navigeer hieronder naar enkele handige tips:
 
+---
+
 <div class="grid cards" markdown>
 
 -   :octicons-command-palette-24:{ .lg .middle } __IT Beheer Tips__
@@ -18,7 +20,7 @@ Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybers
 
     Implementeer sterke wachtwoordbeleid en moedig medewerkers aan om unieke en complexe wachtwoorden te gebruiken.
 
-    [:octicons-shield-24: Security](../../Tips%20%26%20Best%20Practices/introductie)
+    [:octicons-shield-24: Security](../../Tips & Best Practices/Cybersecurity/cybersecurity-bestpractices)
 
 -   :fontawesome-solid-file-pen:{ .lg .middle } __Productiviteit Tips__
 
