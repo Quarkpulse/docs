@@ -58,6 +58,21 @@ extra:
   analytics:
     provider: google
     property: G-XFMJKCVBVZ
+  analytics: 
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Dankjewel voor je feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Dankje voor je feedback! Help ons deze pagina verbeteren door
+            onze <a href="..." target="_blank" rel="noopener">feedback formulier</a> te gebruiken.
   tags:
     HTML5: html
     JavaScript: js
