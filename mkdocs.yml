@@ -9,9 +9,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.indexes        
+    - navigation.indexes
     - navigation.top
-    - toc.follow    
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -27,11 +27,11 @@ theme:
       primary: blue
       accent: amber
     - scheme: slate
-      toggle: 
+      toggle:
         icon: material/weather-sunny
         name: Schakel naar light mode
       primary: blue
-      accent: orange 
+      accent: orange
   icon:
     tag:
       html: fontawesome/brands/html5
@@ -110,7 +110,7 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
