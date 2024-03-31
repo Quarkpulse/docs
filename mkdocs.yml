@@ -79,9 +79,10 @@ nav:
     - 'Technische Ondersteuning Tips': 'Tips & Best Practices/technische-support-tips.md'
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/normanvillefort
+      link: https://normanvillefort.github.io/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/quarkpulse
     - icon: fontawesome/brands/facebook
@@ -108,7 +109,11 @@ markdown_extensions:
       generic: true
   - footnotes
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
