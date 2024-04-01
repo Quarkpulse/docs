@@ -76,9 +76,10 @@ extra:
       link: https://www.threads.net/@quarkpulse
 
 plugin:
+  - social:
+    - cache: false
   - tags
   - search
-  - social
   - typeset
 
 markdown_extensions:
