@@ -4,10 +4,9 @@ Welkom bij de serverbeheerdocumentatie voor bedrijven. Deze handleiding biedt ui
 
 Door deze documentatie te volgen, kunt u een veilige, betrouwbare en schaalbare IT-infrastructuur implementeren en onderhouden. We behandelen verschillende aspecten van serverbeheer, waaronder virtualisatie, firewallconfiguratie, Windows Server 2019 R2 en Linux Server.
 
-1. [Virtualisatie](#virtualisatie)
-2. [Firewall (pfSense)](#firewall-pfsense)
-3. [Windows Server 2019 R2](#windows-server-2019-r2)
-4. [Linux Server](#linux-server)
+1. [Virtualisatie](../Virtualisatie/proxmox-ve)
+2. [Firewall](../Firewall/pfsense)
+3. [Server](../Server/windows-server-2019)
 
 ---
 

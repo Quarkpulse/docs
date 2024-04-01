@@ -7,10 +7,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.path
     - navigation.indexes
     - navigation.top
+    - navigation.tracking
     - toc.follow
     - search.suggest
     - search.highlight
