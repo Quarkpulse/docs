@@ -4,11 +4,11 @@
 ![Hero Image](assets/images/Hero.jpg)
 
 # Docs
-Quarkpulse, een jong IT-bedrijf in Suriname dat `IT for hire` diensten levert aan kleine en middelgrote bedrijven heeft een focus op proactieve dienstverlening en klantgerichtheid  en streeft ernaar om de IT-omgeving de klanten te optimaliseren, te beveiligen en te onderhouden, zodat zij zich kunnen concentreren op hun kernactiviteiten en bedrijfsgroei.
+Quarkpulse, een jong IT-bedrijf in Suriname dat ==IT for hire== diensten levert aan kleine en middelgrote bedrijven heeft een focus op proactieve dienstverlening en klantgerichtheid  en streeft ernaar om de IT-omgeving de klanten te optimaliseren, te beveiligen en te onderhouden, zodat zij zich kunnen concentreren op hun kernactiviteiten en bedrijfsgroei.
 
 ## Welkom bij de Quarkpulse Docs
 
-In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire, onze dienstverleningsmodellen, technische documentatie, veelgestelde vragen en handige tips en best practices. Gebruik de onderstaande kaarten om direct naar de gewenste sectie te gaan:
+In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hire==, onze dienstverleningsmodellen, technische documentatie, veelgestelde vragen en handige tips en best practices. Gebruik de onderstaande kaarten om direct naar de gewenste sectie te gaan:
 
 <div class="grid cards" markdown>
 
@@ -16,7 +16,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire
 
     ---
 
-    Ontdek een algemene introductie van het IT for Hire concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
+    Ontdek een algemene introductie van het ==IT for Hire== concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
 
     [:octicons-workflow-24: Aan de slag](IT for hire/introductie)
 
@@ -26,7 +26,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire
 
     Leer meer over de verschillende dienstverleningsmodellen die Quarkpulse aanbiedt, inclusief de voordelen en nadelen van elk model.
 
-    [:octicons-package-24: Diensten](Dienstverlening/ALGEMEEN/01-introductie)
+    [:octicons-package-24: Diensten](Dienstverlening/Algemeen/01-introductie)
 
 -   :fontawesome-solid-file-pen:{ .lg .middle } __Documentatie__
 
@@ -42,7 +42,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire
 
     Bekijk onze lijst met veelgestelde vragen en vind antwoorden op de meest voorkomende vragen over Quarkpulse en onze diensten.
 
-    [:octicons-question-24: FAQs](Veelgestelde vragen/introductie)
+    [:octicons-question-24: FAQs](FAQs/introductie)
 
 -   :material-tooltip-text:{ .lg .middle } __Tips en Best Practices__
 
@@ -50,7 +50,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over IT for Hire
 
     Ontvang handige tips en best practices voor het optimaliseren van uw IT-omgeving en het maximaliseren van de voordelen van onze dienstverlening.
 
-    [:octicons-thumbsup-24: Tips](Tips & Best Practices/introductie)    
+    [:octicons-thumbsup-24: Tips](Tips/introductie)    
 
 </div>
 

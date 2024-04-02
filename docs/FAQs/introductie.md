@@ -1,12 +1,12 @@
-# FAQs
+# Veelgestelde vragen
 
 De veelgestelde vragen (FAQs) pagina van Quarkpulse is er voor antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen.
 
 <div class="grid cards" markdown>
 
-- :octicons-globe-24: __Algemene Vragen__ [IT for hire? Hoe?](../../Veelgestelde vragen/algemeen/algemene-vragen)
-- :fontawesome-solid-fire-flame-curved: __Diensten__ [Welke? Hoe? Wanneer?](../../Veelgestelde vragen/diensten/dienstverlening)
-- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](../../Veelgestelde vragen/support/contact-support)
+- :octicons-globe-24: __Algemene Vragen__ [IT for hire? Hoe?](../../FAQs/algemeen/algemene-vragen)
+- :fontawesome-solid-fire-flame-curved: __Diensten__ [Welke? Hoe? Wanneer?](../../FAQs/diensten/dienstverlening)
+- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](../../FQAs/support/contact-support)
 
 </div>
 
