@@ -4,9 +4,9 @@ De veelgestelde vragen (FAQs) pagina van Quarkpulse is er voor antwoorden op enk
 
 <div class="grid cards" markdown>
 
-- :octicons-globe-24: __Algemene Vragen__ [IT for hire? Hoe?](../algemeen/algemene-vragen)
-- :fontawesome-solid-fire-flame-curved: __Diensten__ [Welke? Hoe? Wanneer?](../diensten/dienstverlening)
-- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](../support/contact-support)
+- :octicons-globe-24: __Algemene Vragen__ [IT for hire? Hoe?](../Algemeen/algemene-vragen)
+- :fontawesome-solid-fire-flame-curved: __Diensten__ [Welke? Hoe? Wanneer?](../Diensten/dienstverlening)
+- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](../Support/contact-support)
 
 </div>
 
