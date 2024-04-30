@@ -20,18 +20,20 @@ theme:
     - content.tooltips
   language: nl
   palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Schakel naar dark mode
-      primary: blue
-      accent: amber
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Schakel naar light mode
+        tooltip: Schakel naar light mode
       primary: blue
       accent: orange
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Schakel naar dark mode
+        tooltip: Schakel naar dark mode
+      primary: blue
+      accent: amber
   icon:
     tag:
       html: fontawesome/brands/html5
