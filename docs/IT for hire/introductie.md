@@ -1,6 +1,6 @@
 # Introductie
 
-Welkom bij Quarkpulse Docs! In deze sectie zullen we het concept van "IT for hire" verkennen en wat Quarkpulse te bieden heeft op dit gebied.
+Welkom bij Quarkpulse Docs! In deze sectie zullen we het concept van "IT for hire" verkennen, wat Quarkpulse te bieden heeft op dit gebied en als het uberhaupt iets is voor jouw bedrijf.
 
 ## Wat is "IT for hire"?
 
