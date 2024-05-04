@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Break en Fix Dienstverlening 
 
 Break en Fix dienstverlening is een IT-service model waarbij klanten betalen voor technische ondersteuning en probleemoplossing op een ad-hoc basis, wanneer zich incidenten of problemen voordoen met hun IT-systemen, apparatuur of netwerken. In dit model worden diensten geleverd op basis van een uurloon voor de tijd die nodig is om problemen op te lossen of projecten uit te voeren. Hieronder volgt een uitgebreide omschrijving van de belangrijkste aspecten van Break en Fix dienstverlening:

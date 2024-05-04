@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 ??? warning "Waarschuwing"
     Er zijn mogelijk nog delen van deze website die onder constructie zijn! Blijf ons wel in de gaten houden. :heart:
 
