@@ -4,6 +4,9 @@ theme:
   name: material
   favicon: assets/favicon.png
   logo: assets/logo.png
+  font:
+    text: Lato
+    code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.sections
