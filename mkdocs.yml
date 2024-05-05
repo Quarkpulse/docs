@@ -2,7 +2,7 @@ site_name: Quarkpulse
 
 nav:
   - Home: index.md
-  - IT for Hire: ./IT%20for%20hire/introductie.md
+  - IT for Hire: ./IT-for-hire/introductie.md
   - Dienstverlening: ./Dienstverlening/Algemeen/01-introductie.md
   - Documentatie: ./Documentatie/inleiding.md
   - FAQs: ./FAQs/introductie.md
