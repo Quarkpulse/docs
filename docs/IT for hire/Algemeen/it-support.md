@@ -9,8 +9,8 @@ Quarkpulse biedt IT-ondersteuning voor bedrijven die gebruikmaken van het "IT fo
 
 Bekijk de twee dienstmodellen:
 
-- [x] [Break en Fix](../../Dienstverlening/Diensten/Break-en-Fix/break-en-fix-dienstverlening)
-- [x] [Maandelijkse IT Dienst](../../Dienstverlening/Diensten/QMS/maandelijkse-it-dienstverlening)
+- [x] [Break en Fix](break-en-fix-dienstverlening.md)
+- [x] [Maandelijkse IT Dienst](maandelijkse-it-dienstverlening.md)
 
 ## Proactieve monitoring en onderhoud
 
