@@ -8,3 +8,4 @@ IT for hire is een serviceconcept waarbij bedrijven externe IT-dienstverleners i
 
 ## Wat zijn de voordelen van IT for hire?
 Enkele voordelen van IT for hire zijn professionele ondersteuning door ervaren IT-professionals, kostenbesparing door externe dienstverleners in te huren op basis van behoeften, flexibiliteit in dienstverlening en focus op kernactiviteiten door het beheer van de IT-infrastructuur uit te besteden.
+
