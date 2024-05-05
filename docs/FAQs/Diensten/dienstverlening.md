@@ -70,5 +70,5 @@ Voor meer details, zie het 'shared responsibility' model hieronder.
 ???+ note "Opmerking"
     *Er zijn momenteel geen specifieke verantwoordelijkheidsgebieden die volledig aan de klant worden toegewezen.*
 
----
+
 [^1]: Verantwoordelijkheden zijn afhankelijk van de overeenkomst tussen Quarkpulse en de klant.
