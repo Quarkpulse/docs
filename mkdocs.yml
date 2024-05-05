@@ -1,5 +1,13 @@
 site_name: Quarkpulse
 
+nav:
+  - Home: index.md
+  - IT for Hire: ./IT%20for%20hire/introductie.md
+  - Dienstverlening: ./Dienstverlening/Algemeen/01-introductie.md
+  - Documentatie: ./Documentatie/inleiding.md
+  - FAQs: ./FAQs/introductie.md
+  - Tips: ./Tips/introductie.md
+
 theme:
   name: material
   favicon: assets/favicon.png
@@ -70,7 +78,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://normanvillefort.github.io/
+      link: https://github.com/Quarkpulse/
     - icon: fontawesome/brands/whatsapp
       link: https://whatsapp.com/channel/0029VaRNzjrLY6d6Nm4cIo1a
     - icon: fontawesome/brands/instagram
@@ -81,40 +89,42 @@ extra:
       link: https://www.threads.net/@quarkpulse
 
 plugin:
+  - tags
+  - typeset
+  - projects
+  - optimize
   - social:
     - cache: false
-  - tags
-  - search
-  - typeset
+  - search:
+      lang: nl
 
 markdown_extensions:
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.keys
-  - pymdownx.details
-  - pymdownx.tabbed:
-      alternate_style: true
   - attr_list
   - md_in_html
-  - pymdownx.highlight:
-      anchor_linenums: true
+  - admonition
+  - footnotes
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - admonition
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
-  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.mark
-  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
