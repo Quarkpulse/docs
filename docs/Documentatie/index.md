@@ -30,7 +30,7 @@ Hier vind je een verzameling technische documentatie en instructies voor het beh
   
 - **Gegevensbescherming en privacy**: Richtlijnen voor het beschermen van gevoelige gegevens en privacy van gebruikers.
 
-## [Cloudoplossingen](Oplossingen/)
+## [Cloudoplossingen](Oplossingen/Cloud/)
 
 - **Cloudmigratie**: Instructies voor het migreren van lokale infrastructuur naar de cloud.
   

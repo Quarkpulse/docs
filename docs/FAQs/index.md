@@ -16,7 +16,7 @@ De veelgestelde vragen (FAQs) pagina van Quarkpulse is er voor antwoorden op enk
 
 - :octicons-globe-24: __Algemene Vragen__ [IT for hire? Hoe?](Algemeen/)
 - :fontawesome-solid-fire-flame-curved: __Diensten__ [Welke? Hoe? Wanneer?](Diensten/)
-- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](/Support/)
+- :fontawesome-brands-superpowers: __Support__ [Voor wie? Contact!](Support/)
 
 </div>
 
