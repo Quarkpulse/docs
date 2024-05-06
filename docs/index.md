@@ -28,7 +28,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Ontdek een algemene introductie van het ==IT for Hire== concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
 
-    [:octicons-workflow-24: Aan de slag](IT for hire/introductie)
+    [:octicons-workflow-24: Aan de slag](IT for hire/)
 
 -   :fontawesome-solid-hand-holding-droplet:{ .lg .middle } __Dienstverlening__
 
@@ -36,7 +36,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Leer meer over de verschillende dienstverleningsmodellen die Quarkpulse aanbiedt, inclusief de voordelen en nadelen van elk model.
 
-    [:octicons-package-24: Diensten](Dienstverlening/Algemeen/01-introductie)
+    [:octicons-package-24: Diensten](Dienstverlening/Algemeen/)
 
 -   :fontawesome-solid-file-pen:{ .lg .middle } __Documentatie__
 
@@ -44,7 +44,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Vind technische documentatie en instructies voor het beheren van uw IT-infrastructuur, inclusief netwerkconfiguratie, serverbeheer, cybersecurity en meer.
 
-    [:octicons-paperclip-24: Documentatie](Documentatie/inleiding)
+    [:octicons-paperclip-24: Documentatie](Documentatie/)
 
 -   :material-frequently-asked-questions:{ .lg .middle } __FAQs__
 
@@ -60,7 +60,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Ontvang handige tips en best practices voor het optimaliseren van uw IT-omgeving en het maximaliseren van de voordelen van onze dienstverlening.
 
-    [:octicons-thumbsup-24: Tips](Tips/introductie)    
+    [:octicons-thumbsup-24: Tips](Tips/)    
 
 </div>
 
