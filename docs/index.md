@@ -52,7 +52,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Bekijk onze lijst met veelgestelde vragen en vind antwoorden op de meest voorkomende vragen over Quarkpulse en onze diensten.
 
-    [:octicons-question-24: FAQs](FAQs/introductie)
+    [:octicons-question-24: FAQs](FAQs/)
 
 -   :material-tooltip-text:{ .lg .middle } __Tips en Best Practices__
 
