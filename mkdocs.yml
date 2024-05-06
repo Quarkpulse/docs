@@ -29,7 +29,9 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     #- navigation.expand
+    #- navigation.indexes
     - toc.follow
+    #- toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -95,6 +97,9 @@ extra:
       link: https://www.facebook.com/quarkpulse/
     - icon: fontawesome/brands/threads
       link: https://www.threads.net/@quarkpulse
+
+extra_css:
+  - stylesheets/extra.css      
 
 plugin:
   - tags
