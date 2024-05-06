@@ -100,7 +100,7 @@ Om rapporten te bekijken over je facturen, offertes en betalingen, volg je deze 
 3. Pas de filter- en datumopties aan zoals gewenst.
 4. Klik op "Genereren" om het rapport te bekijken.
 
-![Reports](docs/assets/images/invoice-ninja-rapport.jpg)
+![Reports](assets/images/invoice-ninja-rapport.jpg)
 
 ## 9. Instellingen aanpassen
 
