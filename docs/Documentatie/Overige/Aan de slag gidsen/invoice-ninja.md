@@ -19,7 +19,7 @@ Met Invoice Ninja kun je eenvoudig facturen maken, betalingen bijhouden en offer
 
 2. Je wordt nu gevraagd om in te loggen op je account. Vul je gebruikersnaam en wachtwoord in en klik op "Inloggen".
 
-   ![Login](assets/images/invoice-ninja-login.png)
+   ![Login](docs/assets/images/invoice-ninja-login.PNG)
 
 3. Als je voor de eerste keer inlogt, moet je mogelijk een nieuw wachtwoord instellen. Volg de instructies op het scherm om een nieuw wachtwoord in te stellen.
 
@@ -27,7 +27,7 @@ Met Invoice Ninja kun je eenvoudig facturen maken, betalingen bijhouden en offer
 
 Nadat je bent ingelogd, kom je op het dashboard van Invoice Ninja. Hier zie je een overzicht van je recente facturen, offertes, betalingen en nog veel meer.
 
-![Dashboard](assets/images/invoice-ninja-dashboard.png)
+![Dashboard](docs/assets/images/invoice-ninja-dashboard.PNG)
 
 - **Facturen:** Bekijk en beheer al je facturen.
 - **Offertes:** Maak en beheer offertes voor potentiële klanten.
@@ -44,7 +44,7 @@ Laten we beginnen met het maken van je eerste factuur:
 3. Vul de benodigde informatie in, zoals klantgegevens, factuurdatum, vervaldatum, en de items die je wilt factureren.
 4. Klik op "Opslaan" om je factuur op te slaan.
 
-![New Invoice](assets/images/invoice-ninja-factuur.png)
+![New Invoice](docs/assets/images/invoice-ninja-factuur.PNG)
 
 ## 4. Een offerte maken
 
@@ -55,7 +55,7 @@ Als je een offerte wilt maken voor een potentiële klant, volg dan deze stappen:
 3. Vul de benodigde informatie in, zoals klantgegevens, offertedatum, vervaldatum, en de items die je wilt opnemen in de offerte.
 4. Klik op "Opslaan" om je offerte op te slaan.
 
-![New Quote](assets/images/invoice-ninja-offerte.png)
+![New Quote](docs/assets/images/invoice-ninja-offerte.PNG)
 
 ## 5. Klantgegevens beheren
 
@@ -66,7 +66,7 @@ Om klantgegevens toe te voegen of te bewerken, volg je deze stappen:
 3. Vul de benodigde klantgegevens in, zoals naam, adres en contactgegevens.
 4. Klik op "Opslaan" om de klantgegevens op te slaan.
 
-![New Client](assets/images/invoice-ninja-nieuweklant.png)
+![New Client](docs/assets/images/invoice-ninja-nieuweklant.PNG)
 
 ## 6. Producten & Diensten toevoegen
 
@@ -77,7 +77,7 @@ Als je standaardproducten of -diensten hebt die je vaak factureert, voeg ze dan 
 3. Vul de naam, omschrijving en prijs in voor het product of de dienst.
 4. Klik op "Opslaan" om het product of de dienst toe te voegen.
 
-![New Product](assets/images/invoice-ninja-nieuwproduct.png)
+![New Product](docs/assets/images/invoice-ninja-nieuwproduct.PNG)
 
 ## 7. Betalingen bijhouden
 
@@ -89,7 +89,7 @@ Om betalingen bij te houden voor je facturen, volg je deze stappen:
 4. Vul de betalingsinformatie in, zoals het bedrag en de datum van de betaling.
 5. Klik op "Opslaan" om de betaling toe te voegen.
 
-![New Payment](assets/images/invoice-ninja-nieuwebetaling.png)
+![New Payment](docs/assets/images/invoice-ninja-nieuwebetaling.PNG)
 
 ## 8. Rapporten bekijken
 
@@ -100,7 +100,7 @@ Om rapporten te bekijken over je facturen, offertes en betalingen, volg je deze 
 3. Pas de filter- en datumopties aan zoals gewenst.
 4. Klik op "Genereren" om het rapport te bekijken.
 
-![Reports](assets/images/invoice-ninja-rapport.png)
+![Reports](docs/assets/images/invoice-ninja-rapport.PNG)
 
 ## 9. Instellingen aanpassen
 
@@ -110,5 +110,5 @@ Om je accountinstellingen aan te passen, volg je deze stappen:
 2. Kies "Instellingen" in het dropdown-menu.
 3. Hier kun je verschillende instellingen aanpassen, zoals bedrijfsinformatie, belastinginstellingen, e-mailinstellingen en meer.
 
-![Settings](assets/images/invoice-ninja-instellingen.png)
+![Settings](docs/assets/images/invoice-ninja-instellingen.PNG)
 
