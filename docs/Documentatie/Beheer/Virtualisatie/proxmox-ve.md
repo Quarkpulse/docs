@@ -1,4 +1,14 @@
-# Virtualisatie
+---
+title: Virtualisatie met Proxmox
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
+# Virtualisatie met Proxmox
 
 In de servervirtualisatie wereld zijn er verschillende platforms beschikbaar, waaronder VMWare, Hyper-V, KVM en Proxmox. Elk van deze platforms heeft zijn eigen kenmerken, voordelen en toepassingsgebieden.
 

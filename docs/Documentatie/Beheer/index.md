@@ -1,3 +1,13 @@
+---
+title: Infrastructuurbeheer
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Infrastructuurbeheer
 
 Welkom bij de netwerk- en systeembeheerdocumentatie voor bedrijven. Deze handleiding biedt uitgebreide begeleiding voor het opzetten, configureren en beheren van netwerken en servers voor een organisatie. Het netwerkbeheer begint bij de door [Telesur](https://telesur.sr/), [Digicel](https://www.digicelgroup.com/sr/du) of [ParboNet](https://rpbg.com/rpbg/) aangeboden ADSL-modem voor internetverbinding. Houd er rekening mee dat de verbindingsnelheid (Upload en Download) afhankelijk is van het aangekochte internetpakket van de klant.

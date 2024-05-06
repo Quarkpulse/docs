@@ -1,3 +1,13 @@
+---
+title: Windows Server 2019 R2
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Windows Server 2019 R2
 
 ## Installatie van Windows Server 2019 R2 in Proxmox
