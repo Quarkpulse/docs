@@ -22,7 +22,7 @@ Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybers
 
     Houd software en systemen up-to-date door regelmatig updates en patches te installeren.
 
-    [:octicons-workflow-24: IT Beheer](../../Tips/IT/it-beheer-tips)
+    [:octicons-workflow-24: IT Beheer](./Tips/IT/)
 
 -   :material-shield:{ .lg .middle } __Cybersecurity Best Practices__
 
@@ -30,7 +30,7 @@ Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybers
 
     Implementeer sterke wachtwoordbeleid en moedig medewerkers aan om unieke en complexe wachtwoorden te gebruiken.
 
-    [:octicons-shield-24: Security](../../Tips/Cybersecurity/cybersecurity-bestpractices)
+    [:octicons-shield-24: Security](./Tips/Cybersecurity/)
 
 -   :fontawesome-solid-file-pen:{ .lg .middle } __Productiviteit Tips__
 
@@ -38,7 +38,7 @@ Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybers
 
     Stel duidelijke communicatiekanalen in om efficiënte communicatie binnen het bedrijf te bevorderen.
 
-    [:octicons-project-roadmap-24: Productiviteit](../../Tips/Productiviteit/productiviteit-tips)
+    [:octicons-project-roadmap-24: Productiviteit](./Tips/Productiviteit/)
 
 -   :material-frequently-asked-questions:{ .lg .middle } __Technische Ondersteuning Tips__
 
@@ -46,7 +46,7 @@ Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybers
 
     Documenteer technische incidenten zoveel mogelijk om het oplossen van veelvoorkomende IT-problemen te vergemakkelijken.
 
-    [:octicons-thumbsup-24: IT Support Tips](../../Tips/Support/technische-support-tips)
+    [:octicons-thumbsup-24: IT Support Tips](./Tips/Support/)
 
 </div>
 

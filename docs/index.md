@@ -28,7 +28,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Ontdek een algemene introductie van het ==IT for Hire== concept en hoe Quarkpulse u kan helpen uw bedrijf te versterken met onze diensten.
 
-    [:octicons-workflow-24: Aan de slag](IT for hire/)
+    [:octicons-workflow-24: Aan de slag](IT-for-hire/)
 
 -   :fontawesome-solid-hand-holding-droplet:{ .lg .middle } __Dienstverlening__
 
