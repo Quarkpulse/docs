@@ -7,9 +7,9 @@ search:
 
 Hier, in deze sectie zullen we het concept van "IT for hire" verkennen, wat Quarkpulse te bieden heeft op dit gebied en als het uberhaupt iets is voor jouw bedrijf.
 
-- [Wat is IT for hire?](./wat-is.md)
-- [Voor wie is IT for hire?](./voor-wie.md)
-- [IT Support](./it-support.md)
+- [Wat is IT for hire?](./Algemeen/wat-is.md)
+- [Voor wie is IT for hire?](./Algemeen/voor-wie.md)
+- [IT Support](./Algemeen/it-support.md)
 
 ## Wat is "IT for hire"?
 
