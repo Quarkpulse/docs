@@ -1,4 +1,4 @@
-# Firewall (pfSense)
+# pfSense (Firewall)
 
    pfSense is een populaire open-source firewalloplossing die krachtige functies biedt voor netwerkbeveiliging en -beheer. Hier volgen gedetailleerde instructies voor beginners om pfSense te installeren en in te stellen binnen de Proxmox-omgeving:
 

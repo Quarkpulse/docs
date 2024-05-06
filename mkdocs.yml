@@ -2,11 +2,83 @@ site_name: Quarkpulse
 
 nav:
   - Home: index.md
-  - IT for Hire: ./IT-for-hire/introductie.md
-  - Dienstverlening: ./Dienstverlening/Algemeen/01-introductie.md
-  - Documentatie: ./Documentatie/inleiding.md
-  - FAQs: ./FAQs/introductie.md
-  - Tips: ./Tips/introductie.md
+  - IT for hire:
+    - Algemeen:
+      - Wat is IT for hire?: wat-is.md
+      - Voor wie is IT for hire?: voor-wie.md
+      - IT Support: it-support.md
+  - Dienstverlening:
+    - Algemeen:
+      - Introductie: 01-introductie.md
+      - Modellen begrijpen: 02-modellen-begrijpen.md
+      - Dienstmodellen: 03-dienst-modellen-hanteren.md
+    - Diensten:
+      - Onboarding: 10-onboarding.md
+      - Quarkpulse Support: 11-quarkpulse-support.md
+      - Break-en-Fix:
+        - Dienstverlening: break-en-fix-dienstverlening.md
+        - Onboarding: onboarding-break-fix.md
+      - QMS:
+        - Dienstverlening: maandelijkse-it-dienstverlening.md
+        - Onboarding: onboarding-qms.md
+  - Documentatie:
+    - Beheer:
+      - Firewall:
+        - pfSense: pfsense.md
+        - OpnSense: opnsense.md
+      - Server:
+        - Windows Server 2019: windows-server-2019.md
+        - Ubuntu Linux Server 24.04: ubuntu-server-2404.md
+      - Virtualisatie:
+        - Proxmox VE: proxmox-ve.md
+    - Cybersecurity:
+      - Data Security: datasecurity.md
+      - Identity and Access Management: iam.md
+      - Account Security: accountsecurity.md
+      - Endpoint Security: endpointsecurity.md
+      - Incident Response: incident-response.md
+      - Compliance and Auditing: compliance-auditing.md
+      - Vendor Risk Management: vendor-risk-mngt.md
+      - Physical Security: physicalsecurity.md
+      - Security Awareness Training: security-awareness-training.md
+    - Netwerk:
+      - Kleine bedrijven: netwerk-klein.md
+      - Middelgrote bedrijven: netwerk-middelgroot.md
+      - Corporate: netwerk-corporate.md
+    - Oplossingen:
+      - On-Prem: onpremoplossingen.md
+      - Cloud:
+        - Opensource:
+          - Authentik: authentik.md
+          - Homepage Dashboard: homepage.md
+          - Invoice Ninja: invoice-ninja.md
+          - Mkdocs: mkdocs.md
+          - Netbird: netbird.md
+          - Netbox: netbox.md
+          - Nginx Proxy Manager: nginx-proxy-manager.md
+          - OpenProject: openproject.md
+          - Proxmox: proxmox.md
+          - RustDesk: rustdesk.md
+          - Speedtest Tracker: speedtest-tracker.md
+          - TrueNAS: truenas.md
+          - UV Desk: usdesk.md
+          - Wazuh: wazuh.md
+          - Wireguard: wireguard.md
+          - Zabbix: zabbix.md
+        - Commercial:
+          - Microsoft: microsoft.md
+          - Amazon Webservices: aws.md
+          - Alibaba Cloud: alibabacloud.md
+    - Overige: overige-documentatie.md
+  - FAQs:
+    - Algemeen: algemene-vragen.md
+    - Diensten: dienstverlening.md
+    - Support: contact-support.md
+  - Tips:
+    - IT: it-beheer-tips.md
+    - Productiviteit: productiviteit-tips.md
+    - Cybersecurity: cybersecurity-bestpractices.md
+    - Support: technische-support-tips.md
 
 theme:
   name: material
@@ -17,7 +89,7 @@ theme:
     code: Roboto Mono
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    #- navigation.tabs.sticky
     - navigation.sections
     - navigation.path
     - navigation.indexes
