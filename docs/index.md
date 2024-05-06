@@ -36,7 +36,7 @@ In de Quarkpulse Docs vindt u alle informatie die u nodig heeft over ==IT for Hi
 
     Leer meer over de verschillende dienstverleningsmodellen die Quarkpulse aanbiedt, inclusief de voordelen en nadelen van elk model.
 
-    [:octicons-package-24: Diensten](Dienstverlening/Algemeen/)
+    [:octicons-package-24: Diensten](Dienstverlening/)
 
 -   :fontawesome-solid-file-pen:{ .lg .middle } __Documentatie__
 
