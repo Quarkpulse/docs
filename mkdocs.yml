@@ -3,6 +3,10 @@ site_name: Quarkpulse
 nav:
   - Home: index.md
   - IT for Hire: ./IT-for-hire/introductie.md
+      - Algemeen: 
+          - Wat is IT for hire: ./Algemeen/wat-is.md
+          - Voor wie: ./Algemeen/voor-wie.md
+          - IT Support: ./Algemeen/it-support.md
   - Dienstverlening: ./Dienstverlening/Algemeen/01-introductie.md
   - Documentatie: ./Documentatie/inleiding.md
   - FAQs: ./FAQs/introductie.md
