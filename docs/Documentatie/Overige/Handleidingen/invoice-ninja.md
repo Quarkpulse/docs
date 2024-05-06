@@ -110,5 +110,5 @@ Om je accountinstellingen aan te passen, volg je deze stappen:
 2. Kies "Instellingen" in het dropdown-menu.
 3. Hier kun je verschillende instellingen aanpassen, zoals bedrijfsinformatie, belastinginstellingen, e-mailinstellingen en meer.
 
-![Settings](docs/assets/images/invoice-ninja-instellingen.jpg)
+![Settings](assets/images/invoice-ninja-instellingen.JPG)
 
