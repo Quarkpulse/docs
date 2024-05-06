@@ -2,7 +2,7 @@ site_name: Quarkpulse
 site_url: https://quarkpulse.github.io/docs/
 site_author: Godfather
 site_description: >-
-  Quarkpulse documentation for Administrators and Businesses – searchable, and for all devices.
+  Quarkpulse documentation voor Administrators en Businesses – searchable, en op alle devices.
 
 theme:
   name: material

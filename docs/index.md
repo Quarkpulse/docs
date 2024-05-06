@@ -1,5 +1,5 @@
 ---
-title: Quarkpulse Docs
+title: Home
 subtitle:
 description:
 icon:
