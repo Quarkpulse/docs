@@ -4,81 +4,91 @@ nav:
   - Home: index.md
   - IT for hire:
     - Algemeen:
-      - Wat is IT for hire?: wat-is.md
-      - Voor wie is IT for hire?: voor-wie.md
-      - IT Support: it-support.md
+      - Wat is IT for hire?: it-for-hire/wat-is.md
+      - Voor wie is IT for hire?: it-for-hire/voor-wie.md
+      - IT Support: it-for-hire/it-support.md
   - Dienstverlening:
     - Algemeen:
-      - Introductie: 01-introductie.md
-      - Modellen begrijpen: 02-modellen-begrijpen.md
-      - Dienstmodellen: 03-dienst-modellen-hanteren.md
+      - Introductie: dienstverlening/01-introductie.md
+      - Modellen begrijpen: dienstverlening/02-modellen-begrijpen.md
+      - Dienstmodellen: dienstverlening/03-dienst-modellen-hanteren.md
     - Diensten:
-      - Onboarding: 10-onboarding.md
-      - Quarkpulse Support: 11-quarkpulse-support.md
+      - Onboarding: dienstverlening/10-onboarding.md
+      - Quarkpulse Support: dienstverlening/11-quarkpulse-support.md
       - Break-en-Fix:
-        - Dienstverlening: break-en-fix-dienstverlening.md
-        - Onboarding: onboarding-break-fix.md
+        - Dienstverlening: dienstverlening/break-en-fix-dienstverlening.md
+        - Onboarding: dienstverlening/onboarding-break-fix.md
       - QMS:
-        - Dienstverlening: maandelijkse-it-dienstverlening.md
-        - Onboarding: onboarding-qms.md
+        - Dienstverlening: dienstverlening/maandelijkse-it-dienstverlening.md
+        - Onboarding: dienstverlening/onboarding-qms.md
   - Documentatie:
+    - Inleiding: documentatie/inleiding.md
     - Beheer:
-      - Firewall:
-        - pfSense: pfsense.md
-        - OpnSense: opnsense.md
-      - Server:
-        - Windows Server 2019: windows-server-2019.md
-        - Ubuntu Linux Server 24.04: ubuntu-server-2404.md
-      - Virtualisatie:
-        - Proxmox VE: proxmox-ve.md
+      - Serverbeheer: documentatie/serverbeheer.md
+        - Firewall:
+          - pfSense: documentatie/firewall/pfsense.md
+          - OpnSense: documentatie/firewall/opnsense.md
+        - Server:
+          - Windows Server 2019: documentatie/server/windows-server-2019.md
+          - Ubuntu Linux Server 24.04: documentatie/server/ubuntu-server-2404.md
+        - Virtualisatie:
+          - Introductie: documentatie/virtualisatie/introductie.md
+            - Proxmox VE: documentatie/virtualisatie/proxmox-ve.md
     - Cybersecurity:
-      - Data Security: datasecurity.md
-      - Identity and Access Management: iam.md
-      - Account Security: accountsecurity.md
-      - Endpoint Security: endpointsecurity.md
-      - Incident Response: incident-response.md
-      - Compliance and Auditing: compliance-auditing.md
-      - Vendor Risk Management: vendor-risk-mngt.md
-      - Physical Security: physicalsecurity.md
-      - Security Awareness Training: security-awareness-training.md
+      - Cybersecurity: documentatie/cybersecurity.md
+        - Data Security: documentatie/cybersecurity/datasecurity.md
+        - Identity and Access Management: documentatie/cybersecurity/iam.md
+        - Account Security: documentatie/cybersecurity/accountsecurity.md
+        - Endpoint Security: documentatie/cybersecurity/endpointsecurity.md
+        - Incident Response: documentatie/cybersecurity/incident-response.md
+        - Compliance and Auditing: documentatie/cybersecurity/compliance-auditing.md
+        - Vendor Risk Management: documentatie/cybersecurity/vendor-risk-mngt.md
+        - Physical Security: documentatie/cybersecurity/physicalsecurity.md
+        - Security Awareness Training: documentatie/cybersecurity/security-awareness-training.md
     - Netwerk:
-      - Kleine bedrijven: netwerk-klein.md
-      - Middelgrote bedrijven: netwerk-middelgroot.md
-      - Corporate: netwerk-corporate.md
+      - Netwerkconfiguratie: documentatie/netwerk/netwerkconfiguratie.md
+        - Kleine bedrijven: documentatie/netwerk/netwerk-klein.md
+        - Middelgrote bedrijven: documentatie/netwerk/netwerk-middelgroot.md
+        - Corporate: documentatie/netwerk/netwerk-corporate.md
     - Oplossingen:
-      - On-Prem: onpremoplossingen.md
-      - Cloud:
-        - Opensource:
-          - Authentik: authentik.md
-          - Homepage Dashboard: homepage.md
-          - Invoice Ninja: invoice-ninja.md
-          - Mkdocs: mkdocs.md
-          - Netbird: netbird.md
-          - Netbox: netbox.md
-          - Nginx Proxy Manager: nginx-proxy-manager.md
-          - OpenProject: openproject.md
-          - Proxmox: proxmox.md
-          - RustDesk: rustdesk.md
-          - Speedtest Tracker: speedtest-tracker.md
-          - TrueNAS: truenas.md
-          - UV Desk: usdesk.md
-          - Wazuh: wazuh.md
-          - Wireguard: wireguard.md
-          - Zabbix: zabbix.md
-        - Commercial:
-          - Microsoft: microsoft.md
-          - Amazon Webservices: aws.md
-          - Alibaba Cloud: alibabacloud.md
-    - Overige: overige-documentatie.md
+      - Oplossingen: documentatie/oplossingen.md
+        - On-Prem: documentatie/oplossingen/onpremoplossingen.md
+        - Cloud: documentatie/oplossingen/cloudoplossingen.md
+          - Opensource:
+            - Installatie:
+              - Authentik: documentatie/oplossingen/cloud/opensource/installaties/authentik.md
+              - Homepage Dashboard: documentatie/oplossingen/cloud/opensource/installaties/homepage.md
+              - Invoice Ninja: documentatie/oplossingen/cloud/opensource/installaties/invoice-ninja.md
+              - Mkdocs: documentatie/oplossingen/cloud/opensource/installaties/mkdocs.md
+              - Netbird: documentatie/oplossingen/cloud/opensource/installaties/netbird.md
+              - Netbox: documentatie/oplossingen/cloud/opensource/installaties/netbox.md
+              - Nginx Proxy Manager: documentatie/oplossingen/cloud/opensource/installaties/nginx-proxy-manager.md
+              - OpenProject: documentatie/oplossingen/cloud/opensource/installaties/openproject.md
+              - Proxmox: documentatie/oplossingen/cloud/opensource/installaties/proxmox.md
+              - RustDesk: documentatie/oplossingen/cloud/opensource/installaties/rustdesk.md
+              - Speedtest Tracker: documentatie/oplossingen/cloud/opensource/installaties/speedtest-tracker.md
+              - TrueNAS: documentatie/oplossingen/cloud/opensource/installaties/truenas.md
+              - UV Desk: documentatie/oplossingen/cloud/opensource/installaties/usdesk.md
+              - Wazuh: documentatie/oplossingen/cloud/opensource/installaties/wazuh.md
+              - Wireguard: documentatie/oplossingen/cloud/opensource/installaties/wireguard.md
+              - Zabbix: documentatie/oplossingen/cloud/opensource/installaties/zabbix.md
+          - Commercial:
+            - Microsoft: documentatie/oplossingen/cloud/commercial/microsoft.md
+            - Amazon Webservices: documentatie/oplossingen/cloud/commercial/aws.md
+            - Alibaba Cloud: documentatie/oplossingen/cloud/commercial/alibabacloud.md
+    - Overige:
+      - Overige Documentatie: documentatie/overige-documentatie.md
   - FAQs:
-    - Algemeen: algemene-vragen.md
-    - Diensten: dienstverlening.md
-    - Support: contact-support.md
+    - Inleiding: faqs/introductie.md
+    - Algemeen: faqs/algemene-vragen.md
+    - Diensten: faqs/dienstverlening.md
+    - Support: faqs/contact-support.md
   - Tips:
-    - IT: it-beheer-tips.md
-    - Productiviteit: productiviteit-tips.md
-    - Cybersecurity: cybersecurity-bestpractices.md
-    - Support: technische-support-tips.md
+    - Inleiding: tips/introductie.md
+    - IT: tips/it-beheer-tips.md
+    - Productiviteit: tips/productiviteit-tips.md
+    - Cybersecurity: tips/cybersecurity-bestpractices.md
+    - Support: tips/technische-support-tips.md
 
 theme:
   name: material
