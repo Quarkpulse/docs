@@ -1,4 +1,9 @@
 ---
+title: Break en Fix Dienstverlening
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
 search:
   boost: 2 
 ---

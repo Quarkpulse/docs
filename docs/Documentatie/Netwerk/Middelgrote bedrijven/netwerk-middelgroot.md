@@ -1,3 +1,13 @@
+---
+title: Netwerkarchitectuur voor een Middelgroot Bedrijf
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Netwerkarchitectuur voor een Middelgroot Bedrijf
 
 1. **Internet Service Provider (ISP):** Het bedrijf ontvangt internetconnectiviteit via een ADSL-modem van Telesur, dat fungeert als de toegangspoort tot het internet.

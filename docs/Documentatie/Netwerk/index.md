@@ -1,5 +1,5 @@
 ---
-title: Wireguard Installatie
+title: Netwerk Configuratie
 subtitle:
 description:
 icon:
@@ -11,5 +11,4 @@ search:
 ??? warning "Waarschuwing"
     Deze pagina is nog onder constructie! Blijf ons wel in de gaten houden. :heart:
 
-# Wireguard Installatie
-
+# Netwerk Configuratie    

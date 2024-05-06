@@ -4,7 +4,6 @@ site_author: Godfather
 site_description: >-
   Quarkpulse documentation for Administrators and Businesses – searchable, and for all devices.
 
-
 theme:
   name: material
   favicon: assets/favicon.png
@@ -82,7 +81,9 @@ extra:
     JavaScript: js
     CSS: css
   status:
-    <identifier>: <description>
+    <nieuw>: <Recentelijk toegevoegd>
+    <updated>: <Recentelijk geupdate>
+    <outdated>: <Niet langer meer van toepassing>
   generator: false
   social:
     - icon: fontawesome/brands/github-alt

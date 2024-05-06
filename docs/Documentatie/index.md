@@ -1,3 +1,13 @@
+---
+title: Inleiding
+subtitle: tot de documentatie
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Inleiding
 
 Hier vind je een verzameling technische documentatie en instructies voor het beheren, onderhouden en optimaliseren van een IT-infrastructuur. Van netwerkconfiguratiehandleidingen, serverbeheerinstructies, cybersecurityrichtlijnen of andere technische documentatie, staan hier allemaal. Hieronder vind je een overzicht van de beschikbare documentatie:

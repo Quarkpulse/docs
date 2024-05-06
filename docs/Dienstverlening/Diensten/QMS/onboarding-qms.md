@@ -1,3 +1,13 @@
+---
+title: Onboardingsproces
+subtitle: voor de Quarkpulse Managed Services
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Onboardingsproces
 
 1. **Behoeftenanalyse:**  

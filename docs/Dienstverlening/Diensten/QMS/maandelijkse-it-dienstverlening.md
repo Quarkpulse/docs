@@ -1,3 +1,13 @@
+---
+title: Maandelijkse Dienstverlening
+subtitle: Quarkpulse Managed Services (QMS)
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Maandelijkse Dienstverlening
 
 Maandelijkse IT-dienstverlening (1) is een proactief service model waarbij klanten een vast bedrag betalen voor doorlopende ondersteuning en onderhoud van hun IT-infrastructuur. Deze diensten worden regelmatig geleverd om de stabiliteit, veiligheid en efficiëntie van de IT-omgeving van de klant te waarborgen. Hieronder volgt een uitgebreide omschrijving van de belangrijkste aspecten van maandelijkse IT-dienstverlening:

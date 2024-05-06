@@ -1,3 +1,13 @@
+---
+title: Tips en Best Practices
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Tips
 
 Hier delen we nuttige tips en best practices op het gebied van IT-beheer, cybersecurity, en meer. Deze tips helpen je om je IT-infrastructuur te optimaliseren, beveiligen en efficiënt te beheren. Navigeer hieronder naar enkele handige tips:

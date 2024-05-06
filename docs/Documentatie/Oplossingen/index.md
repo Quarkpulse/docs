@@ -1,5 +1,5 @@
 ---
-title: Netwerkarchitectuur voor Corporate
+title: Oplossingen
 subtitle:
 description:
 icon:
@@ -8,4 +8,4 @@ search:
   boost: 2 
 ---
 
-# Netwerkarchitectuur voor Corporate
+# Oplossingen

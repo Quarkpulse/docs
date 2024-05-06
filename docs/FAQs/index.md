@@ -1,3 +1,13 @@
+---
+title: Veelgestelde Vragen
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Veelgestelde vragen
 
 De veelgestelde vragen (FAQs) pagina van Quarkpulse is er voor antwoorden op enkele veelvoorkomende vragen over onze IT-dienstverlening, bedrijfsmodel en andere relevante onderwerpen. Als je nog andere vragen hebt die hier niet worden beantwoord, aarzel dan niet om contact met ons op te nemen.

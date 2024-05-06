@@ -1,4 +1,9 @@
 ---
+title: Onboardingsproces
+subtitle: in zijn algemeen
+description:
+icon:
+status: # nieuw updated outdated
 search:
   boost: 2 
 ---

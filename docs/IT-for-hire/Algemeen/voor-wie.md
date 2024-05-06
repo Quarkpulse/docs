@@ -1,3 +1,13 @@
+---
+title: Voor wie is IT for hire?
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Voor wie is IT for hire?
 
 "IT for hire" is een dienstverleningsmodel dat geschikt is voor een breed scala aan bedrijven, ongeacht hun omvang of sector. Het biedt waardevolle voordelen voor verschillende soorten organisaties, waaronder:

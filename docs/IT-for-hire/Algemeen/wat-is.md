@@ -1,3 +1,13 @@
+---
+title: Wat is IT for hire?
+subtitle:
+description:
+icon:
+status: # nieuw updated outdated
+search:
+  boost: 2 
+---
+
 # Wat is IT for hire?
 
 "IT for hire", ook wel bekend als "IT on demand" of "Managed IT services", is een flexibel dienstverleningsmodel waarbij bedrijven externe IT-dienstverleners inhuren om te voorzien in hun IT-behoeften, zonder de noodzaak om interne IT-medewerkers in dienst te nemen. Dit model biedt verschillende voordelen, waaronder kostenbesparingen, toegang tot gespecialiseerde expertise en een hogere operationele efficiëntie.
