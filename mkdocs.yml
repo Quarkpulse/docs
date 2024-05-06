@@ -4,27 +4,6 @@ site_author: Godfather
 site_description: >-
   Quarkpulse documentation for Administrators and Businesses – searchable, and for all devices.
 
-nav:
-  - Home: index.md
-  - IT for hire:
-    - Wat is IT for hire?: wat-is.md
-    - Voor wie is IT for hire?: voor-wie.md
-    - IT Support: it-support.md
-  - Dienstverlening:
-    - Introductie: 01-introductie.md
-    - Modellen begrijpen: 02-modellen-begrijpen.md
-    - Dienstmodellen: 03-dienst-modellen-hanteren.md
-    - navigation.sections: 
-      - Onboarding: 10-onboarding.md
-      - Quarkpulse Support: 11-quarkpulse-support.md
-      - Break-en-Fix:
-        - Dienstverlening: break-en-fix-dienstverlening.md
-        - Onboarding: onboarding-break-fix.md
-      - QMS:
-        - Dienstverlening: maandelijkse-it-dienstverlening.md
-        - Onboarding: onboarding-qms.md
-  - Documentatie: inleiding.md
-
 theme:
   name: material
   favicon: assets/favicon.png
