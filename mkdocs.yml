@@ -17,11 +17,18 @@ theme:
     code: Roboto Mono
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
     - navigation.indexes
     - navigation.top
     - navigation.tracking
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    #- navigation.expand
     - toc.follow
     - search.suggest
     - search.highlight
