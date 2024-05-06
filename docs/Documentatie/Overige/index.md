@@ -13,6 +13,6 @@ search:
 
 # Overige documentatie
 
-- **Software-installatiehandleidingen**: Stapsgewijze instructies voor het installeren van softwareapplicaties.
+- **Software-aan-de-slag-handleidingen**: Stapsgewijze instructies voor het gebruiken van softwareapplicaties.
   
 - **Troubleshooting-gidsen**: Probleemoplossingsstappen voor veelvoorkomende IT-problemen.
