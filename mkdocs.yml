@@ -1,18 +1,20 @@
 site_name: Quarkpulse
+site_url: https://quarkpulse.github.io/docs/
+site_author: Godfather
+site_description: >-
+  Quarkpulse documentation for Administrators and Businesses – searchable, and for all devices.
 
 nav:
   - Home: index.md
-  - IT for hire: introductie.md
-    - Algemeen:
-      - Wat is IT for hire?: wat-is.md
-      - Voor wie is IT for hire?: voor-wie.md
-      - IT Support: it-support.md
+  - IT for hire:
+    - Wat is IT for hire?: wat-is.md
+    - Voor wie is IT for hire?: voor-wie.md
+    - IT Support: it-support.md
   - Dienstverlening:
-    - Algemeen:
-      - Introductie: 01-introductie.md
-      - Modellen begrijpen: 02-modellen-begrijpen.md
-      - Dienstmodellen: 03-dienst-modellen-hanteren.md
-    - section: Diensten
+    - Introductie: 01-introductie.md
+    - Modellen begrijpen: 02-modellen-begrijpen.md
+    - Dienstmodellen: 03-dienst-modellen-hanteren.md
+    - navigation.sections: 
       - Onboarding: 10-onboarding.md
       - Quarkpulse Support: 11-quarkpulse-support.md
       - Break-en-Fix:
@@ -22,75 +24,6 @@ nav:
         - Dienstverlening: maandelijkse-it-dienstverlening.md
         - Onboarding: onboarding-qms.md
   - Documentatie: inleiding.md
-    - Beheer:
-      - section: Serverbeheer
-        - Firewall:
-          - pfSense: documentatie/beheer/firewalls/pfsense.md
-          - OpnSense: documentatie/beheer/firewalls/opnsense.md
-        - Server:
-          - Windows Server 2019: documentatie/beheer/servers/windows-server-2019.md
-          - Ubuntu Linux Server 24.04: documentatie/beheer/servers/ubuntu-server-2404.md
-        - Virtualisatie:
-          - Introductie: documentatie/beheer/virtualisatie/introductie.md
-          - Proxmox VE: documentatie/beheer/virtualisatie/proxmox-ve.md
-    - Cybersecurity:
-      - Data Security: documentatie/cybersecurity/datasecurity.md
-      - Identity and Access Management: documentatie/cybersecurity/iam.md
-      - Account Security: documentatie/cybersecurity/accountsecurity.md
-      - Endpoint Security: documentatie/cybersecurity/endpointsecurity.md
-      - Incident Response: documentatie/cybersecurity/incident-response.md
-      - Compliance and Auditing: documentatie/cybersecurity/compliance-auditing.md
-      - Vendor Risk Management: documentatie/cybersecurity/vendor-risk-mngt.md
-      - Physical Security: documentatie/cybersecurity/physicalsecurity.md
-      - Security Awareness Training: documentatie/cybersecurity/security-awareness-training.md
-    - Netwerk:
-      - Netwerkconfiguratie:
-        - Kleine bedrijven: documentatie/netwerk/netwerk-klein.md
-        - Middelgrote bedrijven: documentatie/netwerk/netwerk-middelgroot.md
-        - Corporate: documentatie/netwerk/netwerk-corporate.md
-    - Oplossingen:
-      - On-Prem: documentatie/oplossingen/onpremoplossingen.md
-      - Cloud:
-        - Opensource:
-          - section: Installatie
-            - Authentik: documentatie/oplossingen/cloud/opensource/installaties/authentik.md
-            - Homepage Dashboard: documentatie/oplossingen/cloud/opensource/installaties/homepage.md
-            - Invoice Ninja: documentatie/oplossingen/cloud/opensource/installaties/invoice-ninja.md
-            - Mkdocs: documentatie/oplossingen/cloud/opensource/installaties/mkdocs.md
-            - Netbird: documentatie/oplossingen/cloud/opensource/installaties/netbird.md
-            - Netbox: documentatie/oplossingen/cloud/opensource/installaties/netbox.md
-            - Nginx Proxy Manager: documentatie/oplossingen/cloud/opensource/installaties/nginx-proxy-manager.md
-            - OpenProject: documentatie/oplossingen/cloud/opensource/installaties/openproject.md
-            - Proxmox: documentatie/oplossingen/cloud/opensource/installaties/proxmox.md
-            - RustDesk: documentatie/oplossingen/cloud/opensource/installaties/rustdesk.md
-            - Speedtest Tracker: documentatie/oplossingen/cloud/opensource/installaties/speedtest-tracker.md
-            - TrueNAS: documentatie/oplossingen/cloud/opensource/installaties/truenas.md
-            - UV Desk: documentatie/oplossingen/cloud/opensource/installaties/usdesk.md
-            - Wazuh: documentatie/oplossingen/cloud/opensource/installaties/wazuh.md
-            - Wireguard: documentatie/oplossingen/cloud/opensource/installaties/wireguard.md
-            - Zabbix: documentatie/oplossingen/cloud/opensource/installaties/zabbix.md
-          - Commercial:
-            - Microsoft: documentatie/oplossingen/cloud/commercial/microsoft.md
-            - Amazon Webservices: documentatie/oplossingen/cloud/commercial/aws.md
-            - Alibaba Cloud: documentatie/oplossingen/cloud/commercial/alibabacloud.md
-    - Overige:
-      - Overige documentatie: documentatie/overige-documentatie.md
-  - FAQs: introductie.md
-    - Algemeen:
-      - Algemene vragen: faqs/algemene-vragen.md
-    - Diensten:
-      - Dienstverlening: faqs/dienstverlening.md
-    - Support:
-      - Contact Support: faqs/contact-support.md
-  - Tips: introductie.md
-    - IT:
-      - IT Beheer tips: tips/it-beheer-tips.md
-    - Productiviteit:
-      - Productiviteit tips: tips/productiviteit-tips.md
-    - Cybersecurity:
-      - Cybersecurity best practices: tips/cybersecurity-bestpractices.md
-    - Support:
-      - Technische support tips: tips/technische-support-tips.md
 
 theme:
   name: material
