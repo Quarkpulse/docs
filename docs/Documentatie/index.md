@@ -1,7 +1,7 @@
 ---
-title: Inleiding
-subtitle: tot de documentatie
-description:
+title: Documentatie
+subtitle: 
+description: Hulp voor waar je ook mag zijn op je Quarkpulse journey.
 icon:
 status: # nieuw updated outdated
 search:

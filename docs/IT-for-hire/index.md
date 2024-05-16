@@ -1,6 +1,6 @@
 ---
-title: Introductie
-subtitle: tot IT for hire
+title: IT for hire
+subtitle: Introductie
 description:
 icon:
 status: # nieuw updated outdated

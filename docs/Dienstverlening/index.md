@@ -1,6 +1,6 @@
 ---
-title: Introductie 
-subtitle: tot dienstverlening
+title: Dienstverlening
+subtitle: Introductie 
 description: 
 icon: 
 status: # nieuw updated outdated
